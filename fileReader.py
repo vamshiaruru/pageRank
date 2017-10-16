@@ -1,13 +1,9 @@
-from __future__ import division
 import numpy as np
-import scipy
-import sys
-
 
 FILENAME = "data.txt"
 
 rows = np.zeros(421578)
-cols = np.zeros(421578)
+cols = np.zeros(451578)
 i = 0
 with open(FILENAME) as f:
     for line in f:
