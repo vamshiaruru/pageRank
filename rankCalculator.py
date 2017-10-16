@@ -2,13 +2,9 @@ from __future__ import division
 import numpy as np
 import scipy.sparse as ss
 
-rows = np.load("rows1.npy")
-cols = np.load("cols1.npy")
-prob = np.load("prob1.npy")
+rows = np.load("rows.npy")
+cols = np.load("cols.npy")
+prob = np.load("prob.npy")
+rank_vector = np.full(34546, 1/34546)
 
-M = ss.csr_matrix((prob, (rows, cols)))
-M = M.transpose()
-print M
-print rows.shape
-print cols.shape
-print prob.shape
+M = ss.csr_matrix((prob, (cols, rows)))
