@@ -1,0 +1,37 @@
+Famous 600-Year-Old Nova Pinpointed in Modern Day
+
+	After decades of hunting, astronomers have tracked down the origin of a nova first recorded by Korean royal astrologers nearly 600 years ago.
+
+	This finding is the oldest-known example of such a stellar explosion with an accurately pinpointed location, the new study's researchers said, and it could help shed light on the nature of novas, and on the way that about three-quarters of all stars evolve.
+
+	On March 11, 1437, Korean astronomers detected what seemed like a bright new star in the night sky. As recorded in the "Veritable Records of the Reign of King Sejong," a detailed chronicle of the reign of a king who ruled Korea from 1418 to 1464, the explosion lay close to a star in what is now thought of as the tail of the constellation Scorpius. The outburst, now known as Nova Scorpii AD 1437, was seen for 14 days before vanishing. [Know Your Novas: Star Explosions Explained (Infographic)]
+
+	The study's researchers sought to find out what the nova looks like now -- but to do that, they needed to pinpoint its location in the modern sky.
+
+	"I've spent more than 30 years hunting it," said study lead author Michael Shara, curator in charge of astrophysics at the American Museum of Natural History in New York.
+
+	 
+
+	The details of the star explosion suggested it was a classical nova -- a nuclear explosion that happens in binary star systems. "Roughly 75 percent of all stars are in binary star systems," Shara told Space.com.
+
+	 
+
+	In a classical nova, one member of the binary is a white dwarf -- a superdense, Earth-size core of a dead star that is left behind after its star has exhausted all its fuel and shed its outer layers. The sun and most sun-like stars will one day become white dwarfs.
+
+	The nova occurs after a white dwarf siphons too much fuel from its companion star, which eventually leads to a nuclear detonation. 
+
+	Much remains a mystery about the aftermath of novas. Novas leave their stars intact, unlike more powerful supernovas. And once a cataclysmic variable -- the duo of white dwarf and companion star -- goes nova, more novas can theoretically explode there in the future. However, a great deal is unknown about how cataclysmic variables act between nova events, and the researchers knew that finding the modern-day trace of a past nova could help shed light on the structures' life cycle.
+
+	When the researchers first looked about three decades ago where the records seemed to say the nova was, they could not find it: "It turns out we were looking in the wrong place," Shara said. "When it comes to analyzing ancient records, it can be a challenge interpreting them correctly."
+
+	"None of the ancient records we looked at gave the stars in the constellation names or numbers," Shara added. "We initially thought the nova was supposed to be located between two certain stars in the constellation, when the nova was actually the next two stars over. When we relaxed our criteria as to where to look in the constellation, we found the nova in 90 minutes."
+
+	In the new study, the scientists analyzed data recently collected by the Southern African Large Telescope and the Las Campanas Observatory's Swope and du Pont telescopes. They also examined digital versions of photographic plates from Harvard archives that captured more than a century's worth of images of the sky.
+
+	The researchers discovered a shell of debris likely left behind by a nova in the constellation Scorpius. When they calculated the motions of stars in that area, they discovered a binary system that was in exactly the right position to create that shell nearly 600 years ago. 
+
+	The archival photographic plates also revealed that in the 1930s and 1940s, this binary system gave off brief, smaller, dimmer eruptions known as dwarf novas. These findings support an idea that Shara and his colleagues proposed about 30 years ago -- that binary systems that give off classical novas also give off dwarf novas, and are not separate entities, as some had previously suggested, Shara said.
+
+	"The analogy I use here is that of a caterpillar and a butterfly," Shara said. "If humans only lived a few days, it's not clear we'd unravel the fact that caterpillars and butterflies are the same creatures -- we'd need to live much longer. In much the same way, the time scale to go from a classical nova to a dwarf nova looks to be somewhere between two and five centuries."
+
+	"We think an old nova and a dwarf nova are basically the same system, just seen at different stages of development," Shara said. "By understanding classical novae and dwarf novae, hopefully we'll get a better understanding of binary stars, which make up most stars in the universe."

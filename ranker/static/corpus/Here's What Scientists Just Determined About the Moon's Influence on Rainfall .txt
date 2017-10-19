@@ -1,0 +1,17 @@
+Here's What Scientists Just Determined About the Moon's Influence on Rainfall 
+Compared the Earth, our moon is pretty small. But it seems we never stop discovering ways in which our only natural satellite affects what's happening down here on terra firma.
+Research recently published in Geophysical Research Letters, and explained in the video above, shows that the amount of rainfall we get here on Earth is ever so slightly influenced by the position of the moon, thanks to a phenomenon called "atmospheric tide."A 
+Much in the same way lunar gravity pulls on the ocean at sea level, the moon is constantly yanking on the layer of gases surrounding our planet.
+But this effect isn't as easy to observe as oceanic tides. In 1687, Isaac Newton theorized in his "Principia Mathemathica" that our atmosphere on Earth might be subject to lunar tides, but that these atmospheric fluctuations would be practically impossible to measure here on the ground. In the 19th and 20th centuries, minor air pressure and temperature fluctuations were detected based on where the moon was in the sky.A 
+By the 1980's, weather satellites could measure rainfall and cloud cover all over the planet and infer things like air pressure by combining with weather station data. And most recently, a University of Washington study published in 2014 showed that global air pressure on the earth's surface oscillates with the movement of the moon. But until now, nobody had linked the moon's position with rainfall.
+But where there are changes in air pressure, there are changes in precipitation.
+Since our atmosphere can't resist lunar gravity, as the moon moves overhead, the Earth's atmosphere bulges toward it, causing it to take on a slightly elliptical shape, with one of the vertices constantly following the moon.
+The researchers were able to make this connection after devising a simple method for separating lunar signals from weather noise. As a result, they began seeing consistent, if slight, fluctuations in air pressure in a global data set.
+"Where the moon is overhead or underfoot, the air pressure is higher," says co-author Tsubasa Kohyama, a University of Washington doctoral student in atmospheric sciences. "The air piles up just below the moon, and the air becomes more massive and compressed."
+This compressed air heats up, and, since warmer air has the capacity to hold more water vapor than cooler air, suddenly the slice of atmosphere directly underneath the moon has slightly more capacity to hang onto any moisture it may otherwise have given up in the form of rain.
+But don't plan your picnics around where the moon will be in the sky at lunchtime. This research shows about a 1 percent total variation in rainfall when the moon is high, compared to when it is rising. And since the moon is always on the move, this effect doesn'tA last long in any one location.
+Though it may have little impact on day-to-day life, this research is useful for improving our fundamental understanding of climate systems.
+"This research is really curiosity-driven," says Kohyama. "But one application might be in improving our understanding of how tropical rainfall responds to tiny changes in humidity."
+Isaac Newton would be impressed, that's for sure.
+ Print  |  Citation & Date | Reprint
+Animals * Previous Story

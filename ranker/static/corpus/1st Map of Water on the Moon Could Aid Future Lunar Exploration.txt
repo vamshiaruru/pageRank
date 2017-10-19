@@ -1,0 +1,29 @@
+1st Map of Water on the Moon Could Aid Future Lunar Exploration
+
+	For the first time, scientists have mapped the distribution of water trapped in the moon's soil, which could come in handy for planning future missions to the lunar surface.
+
+	In 2009, NASA's LCROSS (Lunar Crater Observation and Sensing Satellite) probe discovered traces of water and a related molecule called hydroxyl, which consists of hydrogen and oxygen, in soil on the moon. Building on this discovery, researchers from Brown University used data from NASA's Moon Mineralogy Mapper to create the first map of the water concentration in the soil's top layers.
+
+	"The signature of water is present nearly everywhere on the lunar surface, not limited to the polar regions as previously reported," Shuai Li, lead author of the study, said in a statement from Brown University. "The amount of water increases toward the poles and does not show significant difference among distinct compositional terrains." [Photos: The Search for Water on the Moon]
+
+	Li conducted the research as a doctoral student at Brown University but now works as a postdoctoral researcher at the University of Hawaii.
+
+	The recent study shows that the water concentration of the lunar soil reaches an average maximum of about 500 to 750 parts per million in the polar regions, which is less than what is found in the dunes of Earth's driest deserts, according to the statement.
+
+	Still, some water is better than no water and could be used to support colonies on the moon or even missions to Mars and beyond, the researchers said.
+
+	"This is a roadmap to where water exists on the surface of the moon," Ralph Milliken, a geologist at Brown University and co-author of the study, said in the statement. "Now that we have these quantitative maps showing where the water is and in what amounts, we can start thinking about whether or not it could be worthwhile to extract, either as drinking water for astronauts or to produce fuel."
+
+	The largely uniform distribution, with gradual decreasing toward the equator, supports previous studies suggesting that the water comes from the solar wind -- streams of high-energy particles from the sun. Atoms of hydrogen in the solar wind can react with oxygen trapped in moon rocks to form hydroxyl and molecular water, according to the statement.
+
+	However, data from the Moon Mineralogy Mapper also found higher-than-average concentrations of water in lunar volcanic deposits near the moon's equator, suggesting that the water was brought to the surface as magma that erupted from the deep-lying mantle, rather than by solar-wind exposure. This was the focus of another study published by the researchers in July.
+
+	The researchers also found that lower lunar latitudes get wetter in the early morning and drier in the afternoon, fluctuating by as much as 200 parts per million, according to the study.
+
+	"We don't know exactly what the mechanism is for this fluctuation, but it tells us that the process of water formation in the lunar soil is active and happening today," Milliken said in the statement. "This raises the possibility that water may re-accumulate after extraction, but we need to better understand the physics of why and how this happens to understand the timescale over which water may be renewed."
+
+	However, the study also leaves several questions unanswered. The Moon Mineralogy Mapper measures light reflected off the lunar surface, meaning it cannot search for water in areas that remain permanently dark, such as the bottom of lunar craters, where significant deposits of water ice may be hiding. Also, the researchers could not determine exactly how deep in the soil the water goes, according to the statement.
+
+	"We're only sensing the upper millimeter or so of soil, and we can't say for sure what the water content is like underneath that," Milliken said. "The distribution of water with depth could make a big difference in terms of how much water is actually there."
+
+	While researchers are still unsure whether the water can be extracted, the new moon map shows the range of water available across the lunar surface, which could help scientists identify the ideal spot for future lunar missions.

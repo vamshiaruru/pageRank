@@ -1,0 +1,21 @@
+Space Junk Solution? Japan Would Use a Tether to Nab Debris & Destroy It
+
+	The Japanese space agency will soon be testing a new technology that would use a roughly half-mile-long tether to grab large pieces of space debris and dispose of them.
+
+	The proposed technology (first announced in 2014) would include a spacecraft that would deploy a 700-meter-long (2,296 feet) electrodynamic tether (EDT) and guide it toward a piece of space junk. The tether would latch onto the orbiting hunk of trash, and the operating spacecraft would then drag the debris down into the incinerator of Earth's atmosphere (causing the operating spacecraft to burn up as well).
+
+	A prototype system called the Kounotori Integrated Tether Experiments (KITE) arrived at the International Space Station on Dec. 12. That system will allow engineers to test the mechanisms that propel the tether when it is deployed in space.. [Worst Space Debris Events of All Time]
+
+	The Japan Aerospace Exploration Agency, or JAXA, released a brief description of the tether technology, as well as an animated video illustrating the details of the tether and the spacecraft -- unfortunately for some of us, it's subtitled in Japanese only.
+
+	Space debris, or "space junk," is becoming an increasingly large problem for space agencies and private companies. Even small pieces of space debris, when moving fast enough, can tear through satellites and human habitats such as the International Space Station; a collision with space debris may have been responsible for the loss of a Japanese science satellite earlier this year.
+
+	In 2013, more than 500,000 pieces of space junk were being tracked by space agencies, according to NASA. That includes more than 21,000 pieces of space trash larger than 4 inches (10 centimeters) in size, and half a million bits of junk between 0.4 inches and 4 inches (1 cm and 10 cm).
+
+
+
+	Agencies aren't just worried about space debris colliding with working satellites -- collisions among large pieces of debris can create showers of smaller pieces, which are more difficult to track.
+
+	The EDT spacecraft will target large pieces of space junk, ranging in size from a few hundred kilograms to a few tons (roughly 400 lbs. to about 4,000 lbs.), a JAXA representative told Space.com in an email.
+
+	The trick with this type of system will be figuring out how to attach the tether to an uncontrolled, orbiting piece of debris. There are various systems on the proposed spacecraft that would allow operators to control and monitor the position of the tether relative to the piece of space junk, including a current running through the tether itself. Once the tether has identified its target, it will initially be directed toward the space junk using GPS, and, as it gets closer, operators will use optical cameras to guide it, the representative said. 

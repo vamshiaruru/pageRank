@@ -1,0 +1,19 @@
+Enhanced NASA Images Show Potential for Buried Ice Near the Martian Equator
+
+	NASA made headlines around the world back in 2015 when it discovered evidence of briny water flowing on the surface of Mars. The agency detected hydrated salts flowing within recurring slope lineae, or RSLs, which are streaks that appear on the sides of craters. RSLs are more prominent when the weather is warm, implying that sunlight might be enabling the features to flow in the warmer weather.
+
+	It remains unclear whether or not RSLs are salts. Some studies suggest the water comes from trace amounts available in the Red Planet's atmosphere, while others say the streaks appear to be dry sand, especially because the streaks are straight, not wavy like one would expect from water. But if RSLs come from water, what is the source, and how substantial is the supply? And is it enough to sustain life?
+
+	Researchers writing in the journal Icarus analyzed observations from NASA's Mars Odyssey spacecraft to learn more about RSLs. The images, sharpened by half from their original resolution of about 550 kilometers (340 miles), showed an abundance of hydrogen, which is an indication of water.
+
+	"In bringing the lower-resolution compositional data into sharper focus, we saw unexpectedly high amounts of hydrogen -- a potential sign of buried water ice or very hydrated salts -- around sections of the Martian equator," Jack Wilson, principal author and a planetary scientist at the Johns Hopkins Applied Physics Laboratory, told Seeker in an email.
+
+RELATED: Gullies on Mars Probably Not Carved by Water
+
+	He acknowledged that we can't know for sure how much water is inside of an RSL unless we sent a rover to excavate. That's certainly possible, but if there is life within an RSL, a rover could contaminate the area with microbes from Earth.
+
+	What Wilson's study reveals is the presence of the same amount of water in the regions with RSLs as those without the features. This means that RSLs can't be fed from water in the near subsurface, at least according to the data he gathered. A limitation, however, is the resolution of the neutron data is a few hundred kilometers, and RSLs are only 100 meters in length at the most. This means that something could be going on that Mars Odyssey could not see, perhaps greater amounts of water available near the RSLs than what the spacecraft spotted.
+
+	The study raises interesting questions about what feeds the RSLs, such as an underground source. Wilson said the most interesting part of the study was seeing so much water is contained in the subsurface near the equator.
+
+	"Where this water came from and why it is still present near the surface are interesting questions," he said.

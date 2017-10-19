@@ -1,0 +1,47 @@
+Bread's Done! This Company Wants to Help Astronauts Bake in Space
+
+	A team of engineers and scientists may have just found a way for astronauts to enjoy fresh bread in space.
+
+	Currently, astronauts on the International Space Station (ISS) rely on tortillas as their "bread" because they have a long "shelf life" and don't produce crumbs. But now, a team of engineers and scientists in Germany is developing an oven that works in microgravity, as well as space-grade dough that's suitable for baking bread in orbit, so that astronauts may one day be able to bake and enjoy fresh bread on the job.
+
+	Germany-based startup Bake In Space also plans to develop a made-in-space sourdough brand based on yeast cultivated at the International Space Station.
+
+	According to Sebastian Marcu, founder and CEO of Bake In Space, the idea came from his friend, spacecraft engineer Neil Jaschinski, who had been struggling to find a better solution to what he says was poor-quality bread in the Netherlands, where he works. 
+
+	"Bread is a big topic in Germany," Marcu told Space.com. "We have 3,200 variations of bread, with a bakery pretty much on every street corner. In the Netherlands, most Germans would complain about the quality of bread." [Space Food Evolution: How Astronaut Chow Has Changed (Photos)]
+
+	Jaschinski have overcome the lack of good bread by learning to bake his own at home. However, he and Marcu realized that their fellow German, ESA astronaut Alexander Gerst -- who is slated to command the ISS in the second half of 2018 -- would have no choice but to survive his six months in space on NASA-approved tortillas. 
+
+
+
+	"I have heard from several former German astronauts that they really missed bread" while in space, Marcu said. "Everything on the space station has to have [a] long shelf-life. And fresh produce, freshly baked products -- that's something they really miss."
+
+	Former German astronaut Gerhard Thiele has joined the project as well.
+
+	'We need to take care of the human beings that we are sending [to space], of their wellbeing, and food, as well as the environment, is an essential part of this," commented Thiele, who spent 11 days in space in 2000 aboard Space Shuttle mission STS-99
+
+	"To have something fresh, whether it is bread or whether it is vegetables, it would be wonderful."
+
+	Bread has been a staple in human diet for thousands of years but replicating the art of bread making in orbital conditions presents multiple challenges. Microgravity, Marcu said, is only one of them.
+
+	"We have to comply with a whole set of safety regulations that we have on the space station," Marcu said. "We have to make sure that none of the surfaces [of the oven] becomes hotter than 45 degrees Celsius [113 degrees Fahrenheit]. This means that we cannot preheat the oven; we cannot open the oven in the middle of operation."
+
+	On Earth, bread needs to be baked at a temperature of about 400 degrees F (200 degrees C). Once it's done, the bakers remove it from the heated oven. But that would not be possible in space. Processes such as thermal convection, which helps to mix up air on Earth, don't work in space. If a bubble of air that hot were to escape from the oven in orbit, it could stay floating inside the station for quite a while, posing a serious health risk to the astronauts,Marcu said.
+
+	Marcu said the team has found a way to overcome this challenge.
+
+	"We basically put the baking product, the dough, inside the cold oven and start heating it up," he said. "Once it's almost done, we start cooling it down. But at that time, any product will start to get dry, and that's why we need to design the oven so that some water is added during the baking process." 
+
+	The oven also needs to be able to operate with only 270 watts of power -- about one-tenth the power used by conventional ovens on Earth. Marcu said the team hopes to have a prototype ready by the end of this year. [The International Space Station: Inside and Out (Infographic)]
+
+	Mastering the process of baking is only one step toward making the space-grade bread. Crumbs could damage the station's equipment, or astronauts could accidently inhale them. Marcu said he hopes the combination of the new baking process and a carefully designed dough will solve the problem. 
+
+	There are further challenges when it comes to the dough, Marcu added. While the ultimate goal is to make bread in space from scratch, he said, the engineers will launch a premade bread product to the space station as a first step. But as with all space food, this bread product will have to have an extremely long shelf life and survive without a fridge or a freezer.
+
+	"At the moment, we are testing out different dough recipes, doing longevity storage tests, keeping them at ambient temperature and making sure that nothing grows inside that is not wanted that could contaminate the space station," Marcu said.
+
+	Separately, Bake In Space will send a yeast culture to the space station that the astronauts will use to create sourdough, which will be delivered back to Earth to establish a line of made-in-space bread. 
+
+	Sourdough is a traditional type of bread dough that people used before the industrialization of bread making. It uses naturally occurring yeast and bacteria that ferment the dough and provide it with its typical mildly sour taste. 
+
+	"Sourdough basically takes up the bacteria from its near vicinity and the person that has his hands in the bread, and that's how the special taste of the bread is developed," Marcu said. [Can You Keep Kosher or Halal in Space?]

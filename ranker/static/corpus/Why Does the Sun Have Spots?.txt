@@ -1,0 +1,43 @@
+Why Does the Sun Have Spots?
+
+Paul Sutter is an astrophysicist at The Ohio State University and the chief scientist at COSI science center. Sutter is also host of Ask a Spaceman, RealSpace and COSI Science Now. 
+
+	Explaining the source of sunspots is a pretty tough nut to crack. People have known about the features for centuries -- early Chinese and medieval European stargazers noted down when they saw faint blotches in the morning or evening sun -- but it wasn't until recently that scientists came up with a half-satisfactory answer for where the spots come from.
+
+	As with most things in astronomy, observing sunspots really got interesting at the opening of the 17th century, with Galileo's revolutionary concept of pointing a telescope at the sky to see what's there. 
+
+	Of course, nobody was dumb enough to stare directly at the sun, especially through a telescope. There are rumors that Galileo -- one of the most intelligent people to ever live -- did this and went blind. He did indeed go blind, but it was when he was 72, a quarter century after he finished his solar observations. [Photos: Sunspots on Earth's Closest Star]
+
+	To protect their eyes, observers would either focus on the late evening or early morning sun for their studies, or project the magnified light safely onto a screen. At the time, there was considerable debate as to sunspots' nature. Some people speculated that the features were just a bunch of planets. But Galileo himself put that idea firmly to rest by demonstrating that the spots were attached to the solar surface, in the process showing that the sun was spinning. 
+
+	I'm sure the next generation of astronomers after Galileo and friends would've loved to study sunspots more, but the universe conspired against them. The following century featured an unusually small number of sunspots, and a corresponding drop-off in solar activity like flares and a noticeable dimming in the solar corona during eclipses It wasn't until the 1700s that sunspot activity ramped up again.
+
+	Sunspot observation continued despite the sun's frustrating shyness during that time, but the central mystery remained: What the heck was going on to cause these spots? In the early 1900s, a few key observations pointed astronomers and physicists in the right direction.
+
+	For one, sunspot activity seemed to cycle every 11 years, from lots of sunspots to just a few-sunspots and back to lots of sunspots. The cycle was even apparent during the weird "Maunder Minimum," when there was very little activity in the 1600s (the term was coined much later). 
+
+	Then there's the temperature. Sunspots look dark, but that's only in comparison to the blazing solar surface around them; they're cooler than the rest of the sun, but still ragingly hot in their own right. Sometimes the sunspots are big, and sometimes they're small, and they can last a couple weeks or a few months. 
+
+	Detailed observations of individual sunspots also revealed that these features were regions of superstrong magnetic fields. Researchers discovered this by measuring light released from hydrogen and helium in the sun. The elements emit very specific wavelengths of light, called spectral lines. In the presence of strong magnetic fields, these unique individual wavelengths each get split into two very closely separated wavelengths. It's called the Zeeman effect and has to do with quantum mechanics, and that's all I'm going to say about that in this article. 
+
+	Finally, observers found that the sun's own magnetic field would flip from north-south to south-north and back to north-south. These flips happen every -- wait for it -- 11 years. [How the Sun's Magnetic Field Works (Infographic)]
+
+	So the answer to sunspots surely has something to do with magnetic fields.
+
+
+
+	The best sunspot solution scientists have so far is the Babcock model, so-called because a dude named Horace Babcock figured it out. It goes like this:
+
+	1) Start with a nice, regular, happy-go-lucky north-south magnetic field on the sun, all straight lines and everything.
+
+	2). The sun is not made of rock, or any other solid, so the star's equator is able to spin faster than regions near the poles. This winds up the magnetic field, folding it in on itself and making it stronger, like doubling up rubber bands.
+
+	3) At the same time, the sun is boiling. Monstrous plumes of plasma rise up from the nuclear furnace below, reach the surface, cool off in the frigidness of space and then sink back down. This mixing further complicates the magnetic field.
+
+	4) Sometimes, the amped-up, rolled-up, coiled-up, twisted-up magnetic fields pierce the surface of the sun, creating an arch like a magnetic worm poking out of a plasma apple, to stretch an analogy.
+
+	5) Where the tube of magnetic fields pierces the surface, it prevents new, hot gas from reaching the surface, making that region cooler than average.
+
+	6) Have you ever tried twisting up a rubber band too much? At some point, it gives up and just snaps, which is the best way to explain what happens to a too-tangled magnetic field. After the snap, the sun "resets" to its usual, neatly aligned magnetic field, but this time flipped.
+
+

@@ -1,0 +1,55 @@
+Cold World, Hot Topic: Can Microbes Survive on Mars?
+
+	CAPE CANAVERAL, Fla. -- A tiny version of Mars on Earth is tucked inside the Space Life Sciences Lab here at NASA's Kennedy Space Center -- a specialized simulation chamber that's helping scientists delve into the prospect of detecting life on the Red Planet.
+
+	Work is underway to investigate how hitchhiking microorganisms on spacecraft might survive, grow and possibly adapt to the harsh environmental conditions on that distant world. Additionally, new research is centered on mimicking sites on Mars that could harbor microbes today -- places that contain transient or permanent liquid water near the surface.
+
+	For instance, one candidate locale for liquid water on Mars is active Recurring Slope Lineae (RSL). These recently discovered dark fingers of mystery emerge from steep, rocky exposures, incrementally growing, fading and reforming on a seasonal basis. [The Search for Life on Mars: A Photo Timeline]
+
+	Some researchers say they are suggestive of the seasonal flow of salty water near the surface of Mars today. others disagree; the debate about the true nature of RSL is contentious.
+
+	Andrew Schuerger of the Department of Plant Pathology at the University of Florida is hot on the trail of discoveries about potential microbial survival and growth on cold, cold Mars. 
+
+	At the Space Life Sciences Lab, Schuerger's Mars chamber can simulate five different aspects of the Red Planet's surface environment: high-intensity ultraviolet radiation; gases within the Martian atmosphere; cold temperatures; low pressure; and levels of dust in the sky, from super-clear to dust-storm level.
+
+	"Over the last 15 years, we've done experiments with all those five conditions and various permutations," Schuerger told Space.com. 
+
+
+
+	Schuerger's lab is home to containers of simulated Mars soils that create what was found by landed spacecraft. In addition, soils obtained from Earth locations with extreme climates -- places in the Arctic, Antarctic, Siberia, Chile's Atacama Desert and alpine ecosystems -- are also present. Microscopes, dessicators and incubators dot the room, along with vials of various chemical concoctions. 
+
+	Joining Schuerger in the research quest is Abigail Harrison, also known as "Astronaut Abby," an aspiring space traveler ready for a trip to Mars. On a summer internship from Wellesley College, she's focused on growth of the bacterium Serratia liquefaciens under Martian conditions. 
+
+	"I'm very passionate about this work, going after challenges and mysteries and finding answers," Harrison told Space.com. "I have a particular interest in Mars. I want to be the one walking around, taking samples, and look into some of those harder-to-find niches on Mars ... boots-on-the-ground type of work," she said. [How Living on Mars Could Challenge Colonists (Infographic)]
+
+	Earlier Mars-chamber work by Schuerger and his colleagues identified 31 species of Earth bacteria that could plausibly grow at the surface of Mars, he said, but with some key caveats. Those caveats are, he quickly added, if the microbes are protected from "biocidal" factors, mainly ultraviolet radiation; and if they are within a stable, hydrated and nutrient-rich environment.
+
+	"There are a lot of conditions in that sentence," Schuerger said. "But when you turn it into reality and ask, 'Is there such a site at the surface of Mars?' the answer is a conditional 'Maybe.'"
+
+	Schuerger said that most of the Martian surface is either too cold, too dry, or both for the species of bacteria identified to actually grow. But given constant stable conditions for a minimum of 10 days, some of those 31 species of bacteria could plausibly develop. "So it can happen, but you have to maintain those conditions continuously," he said.
+
+	But where on the surface of Mars could stable liquid water persist for long periods of time?
+
+	"One of them, potentially, is Recurring Slope Lineae," Schuerger said. Those RSL may be shallow, subsurface liquid brines that slowly move down slope, some scientists believe.
+
+	"So that's a topic of our next project ... to re-create the geochemistry in these RSL features under Martian conditions. We want to get any one of these 31 species that we've already identified to grow under much more realistic geochemical conditions present on the surface of Mars." 
+
+
+
+	Additional niches on Mars that could perhaps support bacteria are salt or ice crystals near the surface. These crystals could trap a tiny habitable environment in a liquid-filled space called an inclusion, Schuerger said. Such inclusions could potentially contain viable cells, he said, either from a spacecraft or indigenously if biology has ever been present on Mars in the first place.
+
+	Another option, Schuerger said, is going to the deepest location in Hellas Basin, the enormous impact basin in the southern hemisphere of Mars. There, the atmospheric pressure is slightly higher and the temperature range is such that liquid water is stable for longer periods of time than elsewhere on Mars. One more candidate, he said, is a subsurface cave (preferably one that's accessible to future explorers). 
+
+	"But if somebody asked me where would I go on Mars to look for life ... my immediate answer would be to send a surface sample mission to a RSL site, if you could land a rover there," Schuerger said.
+
+	However, getting cozy with an RSL has issues.
+
+	Any spacecraft that comes in contact with an RSL must be ultra-sterilized, for two reasons, Schuerger said. 
+
+	"You don't want to contaminate an RSL with Earth biology, and therefore you might be unable to determine what was there naturally," he said. "You've got to protect the science. Also, you don't want to overtly contaminate a site that plausibly has a liquid environment. Where liquid water exists on Earth, life has learned a way to colonize it and proliferate in it over geological time."
+
+	"So special regions on Mars are special, and they need to be protected. I'm absolutely in full favor of that," Schuerger said. 
+
+	Schuerger is embarking on the next round of Mars research, including making mock RSL in the lab's chamber -- work made possible, he said, by a four-year grant from NASA's Office of Planetary Protection.
+
+	In Schuerger's opinion, the most easily accessible -- and, potentially, the most likely -- niche where a liquid-water environment might persist is an RSL site on Mars.

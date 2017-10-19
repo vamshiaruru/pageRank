@@ -1,0 +1,10 @@
+What is a gimbal -- and what does it have to do with NASA? 
+If you've read articles like How the Apollo Spacecraft Worked, you've seen the term gimbal. If you haven't read it, a gimbal is a platform that can pivot. What does that mean? Well, it means that instead of being fixed to an unmoving base, an object on a gimbal can rotate along at least one axis. In the world of aeronautics, these axes are roll, pitch and yaw.
+It's easiest to understand roll, pitch and yaw by visualizing an object like an airplane. Think of an imaginary line that runs through the front of the plane and out the back. A rotation along this line would result in a roll -- the plane would start doing barrel rolls.
+Keep Reading Below
+Now imagine another line running through both wings of the plane. A rotation along this line is a change in pitch. The plane either climbs or dives, depending on the direction of the pitch. A full circle would be a loop-the-loop.
+Finally, imagine a vertical line that comes out of the top and bottom of the plane. This is the yaw axis. Rotating along this line results in a change in direction for the plane -- either right or left.
+This content is not compatible on this device.
+An object mounted on three or more gimbals can turn in nearly any direction. This can come in handy when you need to make sure an object's orientation in relation to a particular direction remains stable. How? Let's look at an example.
+Imagine a billiards table aboard a cruise ship. If it were a normal table, the billiard balls would roll back and forth across the table's surface as the ship's roll, pitch and yaw changed. But a pool table mounted on a gimbal system could adjust for changes in the ship's orientation, maintaining a level playing surface. From an observer aboard the ship, it would look like the table was tilting in unusual ways. If you were to stand on the table, it would look like the rest of the ship was tilting.
+What does a gimbal system look like? Find out in the next section.

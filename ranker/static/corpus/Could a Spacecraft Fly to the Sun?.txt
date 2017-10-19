@@ -1,0 +1,31 @@
+Could a Spacecraft Fly to the Sun?
+
+	Humans have sent spacecraft to the moon, Mars and even distant interstellar space, but could we send a spaceship to the scorching sun?
+
+	The answer is yes, and it's happening soon.
+
+	In 2018, NASA plans to launch the Solar Probe Plus mission to the sun. Earth is about 93 million miles (149 million kilometers) from the sun, and Solar Probe Plus is slated to get within 4 million miles (6 million km) of the blazing star. [What Will Happen to Earth When the Sun Dies?]
+
+	"This is going to be our first mission to fly to the sun," said Eric Christian, a NASA research scientist at Goddard Space Flight Center in Greenbelt, Maryland. "We can't get to the very surface of the sun," but the mission will get close enough to answer three important questions, he said.
+
+	First, the mission aims to reveal why the surface of the sun, called the photosphere, is not as hot as the sun's atmosphere, called the corona. The surface of the sun is only about 10,000 degrees Fahrenheit (5,500 degrees Celsius). But the atmosphere above it is a sizzling 3.5 million F (2 million C), according to NASA.
+
+	"You'd think the farther away you get from a heat source, you'd get colder," Christian told Live Science. "Why the atmosphere is hotter than the surface is a big puzzle."
+
+	Second, scientists want to know how the solar wind gets its speed. "The sun blows a stream of charged particles in all directions at a million miles an hour," he said. "But we don't understand how that gets accelerated."
+
+	People have known about the solar wind for years, as early observers noticed that the tails of comets always pointed away from the sun, even if the comet was traveling in another direction. This suggested that something -- that is, the solar wind -- was coming off the sun faster than the comet was moving, Christian said.
+
+	Third, the mission may ascertain why the sun occasionally emits high-energy particles -- called solar energetic particles -- that are a danger to unprotected astronauts and spacecraft.
+
+	Researchers have tried to figure out these mysteries from Earth, but "the trouble is we're 93 million miles away," Christian said. "[The distance makes] things get smeared out in a way that makes it hard to tell what's happening at the sun."
+
+	But flying to within 4 million miles of the sun has its challenges. The main challenge, unsurprisingly, is the heat. To deal with the extreme temperatures, NASA scientists have designed a 4.5-inch-thick (11.4 centimeters) carbon-composite shield, which is designed to withstand temperatures outside the spacecraft of 2,500 F (1,370 C), according to the Johns Hopkins University Applied Physics Laboratory, a NASA collaborator working on the Solar Probe Plus.
+
+	In addition, the probe will have special heat tubes called thermal radiators that will radiate heat that permeates the heat shield to open space, "so it doesn't go to the instruments, which are sensitive to heat," Christian said.
+
+	If these protections work as expected, the instruments in the probe will stay at room temperature, Christian said. [Is There Gravity in Space?]
+
+	The Solar Probe Plus will also be protected from radiation, which can damage the probe's electrical circuits, especially its memory, he said.
+
+	The spacecraft will be unmanned, but if given enough time and money, NASA scientists could probably develop a spacecraft that could safely carry an astronaut to within 4 million miles of the sun, Christian said. However, the cost of a human life is great, and that's a risk uncrewed missions don't carry, he noted.

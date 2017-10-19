@@ -1,0 +1,11 @@
+Visualize the Total Solar Eclipse with NASA's 3D App
+
+
+
+	Find out what the Aug. 21 total solar eclipse will look like from anywhere on the planet with a new interactive, 3D simulation app from NASA. 
+
+	The Aug. 21 eclipse will cross the U.S. from Oregon to South Carolina along a path about 70 miles (113 kilometers) wide. The new NASA app, "Eyes on the Eclipse," simulates what the sun will look like as it passes through the sky on Aug. 21. Users can explore different locations along the path of totality where the moon will completely obscure the sun in a total solar eclipse, as well as areas that will experience a partial solar eclipse or no eclipse.
+
+	Eyes on the Eclipse is a part of the NASA's Eyes program, which allows users to follow missions such as Cassini, Juno or New Horizons through interactive apps. Eyes on the Eclipse can be used on any web browser, or by downloading the app to your computer or mobile device. [Total Solar Eclipse 2017: When, Where and How to See It (Safely)]
+
+	To preview the Aug. 21 eclipse in the app, open the program through NASA's website and click anywhere on the image of Earth or choose from one of the five preset U.S. cities. To view a specific location, select the custom option and then enter the city and state, or latitude and longitude in decimal degrees. 

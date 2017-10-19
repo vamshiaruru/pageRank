@@ -1,0 +1,29 @@
+How Scientists Predict the Path of the 2017 Total Solar Eclipse
+
+	Millions of people intend to watch the 2017 total solar eclipse, which will cross the continental U.S. on Aug. 21. Here's how NASA scientists figure out exactly where the moon's shadow will fall on the surface of the Earth, down to the city block.
+
+	Space.com talked with NASA's Ernie Wright, who has been producing NASA's visualizations of the celestial event, to learn how satellites mapping the surface of the moon and advances in computing power have made it possible for scientists to predict precisely where on Earth the eclipse will be visible and for exactly how long -- with a precision of about 100 meters (330 feet, or about the length of a city block).
+
+	Knowing where to watch the eclipse means the difference between seeing totality -- when the sun is fully concealed by the moon -- and just a partial eclipse, where the moon covers part of the sun but the sky doesn't fully darken. If you're outside the path of totality, the moon's crossing will be just a glancing blow. [Total Solar Eclipse 2017: When, Where and How to See It (Safely)]
+
+	A 19th century technique for predicting the eclipse has scientists using a coordinate system aligned with the shadow of the moon on the Earth, making it easy to determine whether a given observer on the ground was inside or outside the shadow's circle. But that method simplifies the sun-moon-Earth system, and so is accurate to only within a few miles, depending on the location, Wright said.
+
+	"That all assumes that the moon is perfectly smooth and that all the observers on the Earth are at sea level," Wright told Space.com. "These are simplifying assumptions; when you have to make these calculations with pencil and paper you need to simplify them a little bit."
+
+	"In the space age, we now have really excellent elevation maps of both the moon and the Earth," he said, "and elevations on the moon affect the limb of the moon -- this is the edge of the moon's disc as we see it from Earth -- so it's kind of bumpy, it's jagged."
+
+	The moon's craters and valleys can let glimmers of sunlight by when a simplified model would expect the sun to be completely covered. Maps of the moon weren't precise enough to factor those irregularities in until less than 10 years ago, after NASA's Lunar Reconnaissance Orbiter and Japan's Kayuga probe mapped the moon's surface, Wright said -- and the computational power to calculate the strange, polygonal shape the moon's shadow takes because of the way the sun projects through each of its edge's tiny dips.
+
+	Similarly, Earth's elevation can have a surprisingly large effect on the visibility of the eclipse -- if you're near the edge of the shadow, the elevation can lift you out of it or into it based on the angle of the sun and moon.
+
+	"For the Aug. 2017 eclipse, that's going to pass over the Cascades and the Rockies, and lots of observers that are at elevations that are several kilometers," Wright said. "And so the entire umbra, this is the central shadow, will shift to the southeast by several kilometers when you take into account that elevation."
+
+	Wright uses elevation data from NASA's Shuttle Radar Topography Mission, which measures the elevation at 1,200 points between each line of latitude or longitude. He also takes into account the precise locations of the Earth, moon and sun at each time, and the time the sunlight takes to travel to the moon and then down to Earth. [How Long Will the 2017 Solar Eclipse Last? Depends Where You Are]
+
+	To factor all of that in, eclipse modelers like Wright use the 19th-century coordinate system as a starting point, but then calculate the view for millions of simulated observers by working in the profile of the moon, size and angle of the sun in the sky, as well as elevation at each of the points on the ground. That lets them plot out the swath of land that will see an eclipse, and how long it will last at each point. The number of calculations would seem very strange to early eclipse modelers, but isn't unusual for fields like computer graphics.
+
+	"We're able to do modern calculations now just because of this confluence of computing power and large datasets describing the shape of the moon and the Earth," Wright said.
+
+	"It's just been this confluence of large datasets from remote sensing and computing power that have allowed us to do this in the last 10 years," Wright said. "The animation that I did, that shows the shape of the umbra and all of that stuff, calculated the observer circumstances at half a trillion points -- nobody's going to do that by hand. They'd be happy if they could do 10 of them. But computers love to do things over and over again; they never get tired."
+
+	Most eclipse viewers head for the center of the path of totality, where the dark sky will last the longest, but some researchers and particularly adventurous spectators aim for the edge, where more interesting effects around the sun's circumference can manifest for longer periods of time: like a "diamond ring" effect or spots of light that look like beads on a necklace. (Space.com columnist Joe Rao discussed the advantages to heading for the eclipse's edge in a recent column.)

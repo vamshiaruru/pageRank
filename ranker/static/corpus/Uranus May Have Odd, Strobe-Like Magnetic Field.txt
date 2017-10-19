@@ -1,0 +1,19 @@
+Uranus May Have Odd, Strobe-Like Magnetic Field
+
+	The planet Uranus just keeps getting weirder.
+
+	The icy gas world that strangely orbits the sun on its side may also have a wonky magnetic field that constantly flickers on and off, new research suggests.
+
+	Magnetic fields around planets, or magnetospheres, create shields against the bombardment of radiation from the sun known as solar wind. On Earth, for example, the magnetosphere lines up pretty closely with the planet's axis of rotation, and magnetic field lines emerge from Earth's north and south poles. On Uranus, however, the magnetosphere is a bit more chaotic.
+
+	Uranus' spin axis is tilted by a whopping 98 degrees, and the planet's off-center magnetic field is tilted by another 60 degrees. Every time the planet rotates (about every 17.24 hours), this lopsided magnetic field tumbles around, opening and closing periodically as the magnetic field lines disconnect and reconnect, the study found. [Top 5 Weird Facts About Uranus]
+
+	Researchers at the Georgia Institute of Technology (Georgia Tech) in Atlanta figured this out by simulating Uranus' messy magnetosphere using numerical models and data from NASA's Voyager 2 spacecraft, which flew by the planet in 1986.
+
+	"Uranus is a geometric nightmare," Carol Paty, an associate professor at Georgia Tech's School of Earth & Atmospheric Sciences and co-author of the study, said in a statement. "The magnetic field tumbles very fast, like a child cartwheeling down a hill head over heels. When the magnetized solar wind meets this tumbling field in the right way, it can reconnect, and [so] Uranus' magnetosphere goes from open to closed to open on a daily basis."
+
+	When the magnetosphere opens up, it allows solar particles to bombard the planet. Then, when the magnetic field lines reconnect, this natural shield can continue to block the solar wind.
+
+	This process may be related to auroras on Uranus. Just like the auroras on Earth and other planets, Uranus' atmosphere lights up when particles from the solar wind enter it and interact with gases like nitrogen and oxygen. 
+
+	NASA's Hubble Space Telescope has previously observed auroras on Uranus, but astronomers face difficulties in studying how these auroras interact with the magnetosphere, because the planet is so far away -- nearly 2 billion miles (3.2 billion kilometers) from Earth. The space agency is currently considering sending another spacecraft to Uranus and Neptune to investigate those planet's magnetic fields, among other things.

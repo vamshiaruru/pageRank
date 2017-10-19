@@ -1,0 +1,23 @@
+Nuclear Explosions and Submarine Comms Distort Space Weather Near Earth
+
+	Space weather typically refers to charged particles ejected by the sun that can interact with Earth's atmosphere and magnetic field. However, a new study shows that humans also can change the near-Earth space environment. 
+
+	According to the study, examples of human activity that can cause these changes include the use of very-low-frequency radio communications, and nuclear explosions detonated high in the atmosphere. 
+
+	Most space weather comes from the influence of the sun, which sends out a steady stream of high-energy particles called the solar wind. The sun can also release bursts of highly energetic charged particles, called coronal mass ejections (CMEs). Near Earth, most of these particles are deflected by the magnetosphere, the protective magnetic field that surrounds the planet. These powerful particles, particularly those from CMEs, can cause satellites to short out or even create currents in the magnetic field that can reach the ground and damage power grids, according to a statement from NASA.
+
+	Similar effects were observed when both the United States and the Soviet Union denotated nuclear bombs at altitudes of between 16 miles and 250 miles (26 kilometers and 402 kilometers) between 1958 and 1962.. Both countries, but the Comprehensive Nuclear-Test-Ban Treaty put an end to the tests in 1966. [Human-Made Radio Bubble Protects Earth from Radiation | Video]
+
+	Newly declassified information about these tests is included in the new study, in an effort to understand how the tests affected the space environment near Earth."Upon detonation, a first blast wave expelled an expanding fireball of plasma, a hot gas of electrically charged particles," NASA said in the statement. "This created a geomagnetic disturbance, which distorted Earth's magnetic-field lines and induced an electric field on the surface."
+
+	The Van Allen radiation belts are large, doughnut-shaped rings of highly energetic charged particles, trapped in their respective loops by magnetism, that loop outward from the Earth. NASA's Van Allen Probes are currently studying these belts. Surprisingly, they found that some of the nuclear tests created artificial belts that stayed in place for weeks and, in a single case, years. 
+
+	The charged particles left from the explosions caused some satellites to fail, which is similar to what can happen during a space weather event, NASA added in the statement. However, the particles that were trapped in the artificial belts had different energies from those observed in the Van Allen belts.
+
+	Human influence was not limited to these belts. Auroras (also known as the northern and southern lights) were generated locally after the so-called Teak test, which occurred on Aug. 1, 1958, high above Johnston Atoll in the Pacific Ocean. A more widespread view of auroras, seen from Sweden to Arizona, happened after the so-called Argus tests were conducted later that year. However, these auroras lasted only a few seconds.
+
+	The probes noticed that the VLF signal bubble's outer boundary is almost exactly aligned with the inner edge of the Van Allen belts.While the effect of the nuclear explosions has passed, very-low-frequency (VLF) signals can still be observed by the Van Allen Probes. These VLF signals, emitted by ground stations, are transmitted "at huge powers," so they can reach submarines deep below the ocean's surface, according to a second statement from NASA. They also extend up beyond the planet's atmosphere, "shrouding Earth in a VLF bubble."
+
+	However, this VLF boundary has shifted over time. Measurements from the 1960s, when VLF transmissions were more limited, suggest that the inner edge of the Van Allen belts was closer to Earth then than it is today, according to NASA. 
+
+	It's possible that the inner boundary of the Van Allen belts is an "impenetrable barrier" and that, if humans did not send out VLF signals, the boundary would stretch closer to our planet, according to the NASA statement. 

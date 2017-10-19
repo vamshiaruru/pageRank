@@ -1,0 +1,13 @@
+The First Mars Colony Could Be 3D Printed From Red Planet Dust
+
+	A new technique could allow the first humans on Mars to 3D print everything from tools to temporary housing out of a tough rubber-like material -- using only Martian dust.
+
+	The method could enable the first humans who set foot on the Red Planet to print the tools and housing they need to survive without having to lug all the supplies aboard their spaceship.
+
+	"For places like other planets and moons, where resources are limited, people would need to use what is available on that planet in order to live," Ramille Shah, a materials scientist at Northwestern University in Illinois, said in a statement. "Our 3D paints  really open up the ability to print different functional or structural objects to make habitats beyond Earth."  [Sending Humans to Mars: 8 Steps to Red Planet Colonization]
+
+	Any trip to Mars would require spaceships big enough to carry much more fuel and supplies than past spacecraft could, but care packages from Mother Earth won't be enough for humans to make it on an alien planet. Almost all schemes for colonizing the Red Planet (or for colonizing the moon) require that at least some of the supplies for the expeditions come from the local environment.
+
+	One step toward that goal would be to develop a supertool that could be used to quickly manufacture any other desired tool or object, using local resources. To that end, Shah and her colleagues wanted to see what could be made with some of the most abundant material on Mars and the moon: dust. The researchers used simulated dusts based on real lunar and Martian samples. The synthetic dust contains mixtures of aluminum oxide, silicon dioxide, iron oxide and other compounds. The hard particles simulating the lunar surface often have jagged, sharp edges, while Martian simulated dust is made up of rounder, less irregular particles, according to the researchers.
+
+	The team developed a process that combines simulated lunar and Martian dust with solvents and a biopolymer to create these extraterrestrial inks. The inks were then 3D printed into different shapes using an extruder. In the end, the objects -- which were composed of about 90 percent dust -- were tough and flexible, and could withstand the rolling, cutting and folding needed to print almost any 3D shape, Shah and her colleagues reported online March 20 in the journal Scientific Reports.

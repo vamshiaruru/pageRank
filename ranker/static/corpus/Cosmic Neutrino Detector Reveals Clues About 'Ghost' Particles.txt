@@ -1,0 +1,35 @@
+Cosmic Neutrino Detector Reveals Clues About 'Ghost' Particles
+
+	Buried under the Antarctic ice, the IceCube experiment was designed primarily to capture particles called neutrinos that are produced by powerful cosmic events, but it is also helping scientists learn about the fundamental nature of these ghostly particles.
+
+	At a meeting of the American Physical Society (APS) in Washington, D.C., this week, scientists with the IceCube collaboration presented new results that contribute to an ongoing mystery about the nature of neutrinos. These particles pour down on Earth from the sun, but they mostly pass unimpeded, like ghosts, through regular matter.
+
+	The new results support evidence of a strange symmetry in measurements of one neutrino mass. In particle physics, symmetries often indicate underlying physics that scientists haven't yet unearthed. [Neutrinos from Beyond the Solar System Found (Images)]
+
+	Neutrinos are fundamental particles of nature. They aren't one of the particles that make up atoms. (Those are electrons, protons and neutrons.) Neutrinos very, very rarely interact with regular matter, so they don't really influence human beings at all (unless, of course, you happen to be a particle physicist who studies them). The sun generates neutrinos in droves, but for the most part, those particles pour through the Earth, like phantoms. 
+
+	The IceCube Neutrino Observatory is a neutrino detector buried under 0.9 miles (1.45 kilometers) of ice in Antarctica. The ice provides a shield from other types of radiation and particles that would otherwise overwhelm the rare instances when neutrinos do interact with the detector and create a signal for scientists to study. 
+
+	Neutrinos come in three "flavors": the tau neutrino, the muon neutrino and the electron neutrino. For a long time, scientists debated whether neutrinos had mass or if they were similar to photons (particles of light), which are considered massless. Eventually, scientists showed that neutrinos do have mass, and the 2015 Nobel Prize was awarded for work on neutrinos, including investigations into neutrino masses. 
+
+	But saying that neutrinos have mass is not the same as saying that a rock or an apple has mass. Neutrinos are particles that exist in the quantum world, and the quantum world is weird -- light can be both a wave and a particle; cats can be both alive and dead. So it's not that each neutrino flavor has its own mass, but rather that the neutrino flavors combine into what are called "mass eigenstates," and those are what scientists measure. (For the purpose of simplicity, a Michigan State University statement describing the new findings calls the mass eigenstates "neutrino species.") 
+
+	"One of the outstanding questions is whether there is a pattern to the fractions that go into each neutrino species," Tyce DeYoung, an associate professor of physics and astronomy at Michigan State University and one of the IceCube collaborators working on the new finding, told Space.com. 
+
+	One neutrino species appears to be made up of mostly electron neutrinos, with some muon and tau neutrinos; the second neutrino species seems to be an almost equal mix of all three; and the third is still a bit of a mystery, but one previous study suggested that it might be an even split between muon and tau, with just a few electron neutrinos thrown in. 
+
+	At the APS meeting, Joshua Hignight, a postdoctoral researcher at Michigan State University working with DeYoung, presented preliminary results from IceCube that support the equal split of muon and tau neutrinos in that third mass species. 
+
+	"This question of whether the third type is exactly equal parts muon and tau is called the maximal mixing question," he said. "Since we don't know any reason that this neutrino species should be exactly half and half, that would either be a really astonishing coincidence or possibly telling us about some physical principle that we haven't discovered yet."    
+
+	Generally speaking, any given feature of the universe can be explained either by a random process or by some rule that governs how things behave. If the number of muon and tau neutrinos in the third neutrino species were determined randomly, there would be much higher odds that those numbers would not be equal.
+
+	"To me, this is very interesting, because it implies a fundamental symmetry," DeYoung said.  
+
+	To better understand why the equal number of muon and tau neutrinos in the mass species implies nonrandomness, DeYoung gave the example of scientists discovering that protons and neutrons (the two particles that make up the nucleus of an atom) have very similar masses. The scientists who first discovered those masses might have wondered if that similarity was a mere coincidence or the product of some underlying similarity. 
+
+	It turns out, it's the latter: Neutrons and protons are both made of three elementary particles called quarks (though a different combination of two quark varieties). In that case, a similarity on the surface indicated something hidden below, the scientists said.
+
+	The new results from IceCube are "generally consistent" with recent results from the T2K neutrino experiment in Japan, which is dedicated to answering questions about the fundamental nature of neutrinos. But the Nova experiment, based at Fermi National Accelerator Laboratory outside Chicago, did not "prefer the exact symmetry" between the muon and tau neutrinos in the third mass species, according to DeYoung.
+
+	"That's a tension; that's not a direct contradiction at this point," he said. "It's the sort of not-quite-agreement that we're going to be looking into over the next couple of years."  

@@ -1,0 +1,18 @@
+#wrapper {
+    text-align: center;
+}
+#homeSearch{
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#searchBar{
+    padding: 5px 20px;
+}
+.btn{
+    float : right;
+    margin-right: 10px;
+}
+#submitButton{
+    margin-left: 10px;
+}

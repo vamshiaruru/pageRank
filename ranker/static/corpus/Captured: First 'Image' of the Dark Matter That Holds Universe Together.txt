@@ -1,0 +1,29 @@
+Captured: First 'Image' of the Dark Matter That Holds Universe Together
+
+	For decades, scientists have tracked hints of a thread-like structure that ties together galaxies across the universe. Theories, computer models, and indirect observations have indicated that there is a cosmic web of dark matter that connects galaxies and constitutes the large-scale structure of the cosmos. But while the filaments that make up this web are massive, dark matter is incredibly difficult to observe.
+
+	Now, researchers have produced what they say is the first composite image of a dark matter filament that connects galaxies together.
+
+	"This image moves us beyond predictions to something we can see and measure," said Mike Hudson, a professor of astronomy at the University of Waterloo in Canada, co-author of a new study published in the Monthly Notices of the Royal Astronomical Society.
+
+	Dark matter, an elusive substance that is estimated to make up around 27 percent of the universe, doesn't give off, reflect, or absorb light. This has made it virtually impossible to detect, except for its effects when it exerts a gravitational tug or when it warps the light of distant galaxies in what is called gravitational lensing.
+
+	For their work, Hudson and co-author Seth Epps, who was a master's student at the University of Waterloo at the time of the research, employed a technique called weak gravitational lensing -- a statistical measurement of the slight bends that occur in the path of light passing near mass. The effect produces illustrations of galaxies that appear slightly warped owing to the presence of celestial mass, such as dark matter.
+
+	In their paper, they explained that in order to study the weak lensing signal of the dark matter filaments, they required two sets of data: a catalog of galaxy cluster pairs that were lensed, and a catalog of background source galaxies with accurate distance measurements.
+
+	They combined lensing data from a multi-year sky survey at the Canada-France-Hawaii Telescope with information from the Sloan Digital Sky Survey that mapped luminous red galaxies (LRGs), which are massive, distant, and very old galaxies.  
+
+	"LRGs are very bright galaxies," Hudson told Seeker via email. "They tend to be more massive than the average galaxy and live in more massive dark matter 'halos.' It's reasonable to expect that the filament or bridge between them might also be more massive than the average."
+
+RELATED: The Andromeda Galaxy Could Be Buzzing With Dark Matter
+
+	Hudson and Epps combined or "stacked" more than 23,000 galaxy pairs, all located about 4.5 billion light-years away. This allowed them to create a composite image or map that shows the presence of dark matter between galaxies. Hudson told Seeker that the filament in their "image" is the average of all 23,000 pairs.
+
+	"The primary reason that we used these galaxies is that they had precise distances (as measured by another team)," Hudson explained. "These distance measurements allowed us to distinguish between pairs of galaxies that were actual pairs in 3D (meaning both are at the same distance from us) as opposed to two galaxies that appeared close on the sky but were actually at very different distances."
+
+	3D pairs would be physically close to each other and hence, will have a bridge whereas the second group are not physically close to each other, and so would not have a bridge between them. Hudson and Epps said their results show the dark matter filament bridge is strongest between systems less than 40 million light years apart.
+
+	"By using this technique, we're not only able to see that these dark matter filaments in the universe exist, we're able to see the extent to which these filaments connect galaxies together," Epps said in a statement.
+
+RELATED: Camouflaged Dark Matter Galaxy Discovered

@@ -1,0 +1,29 @@
+NASA's Cassini Mission to Saturn: By the Numbers
+
+Update for Sept. 15: Cassini has made its final plunge into Saturn. See our final farewell here: RIP, Cassini: Historic Mission Ends with Fiery Plunge into Saturn 
+
+	After 20 years spent traveling the solar system and 13 years spent circling Saturn, the remarkable Cassini mission  is coming to a bittersweet end.
+
+	On Friday, Sept. 15, mission scientists and enthusiasts will witness the self-destruction of the Cassini probe, as it burns up and disintegrates in the atmosphere of the ringed planet that it observed over the course of three total missions. [Cassini's Saturn Crash: How to Watch Its 'Grand Finale']
+
+	Cassini has gathered new insights and imagery from Saturn, a planet that has long fascinated people's imaginations. To gain a solid understanding of the ways in which this distant spacecraft has contributed to the scientific understanding of Saturn and its more than 60 moons, it's worthwhile look at the numbers:
+
+
+
+453,048: The number of images Cassini has taken. One of the many instruments on board the Cassini spacecraft is the Imaging Science Subsystem camera, which uses red, green and blue spectral filters to capture the marvels of the Saturn system. The colors are later combined to make a composite image. Cassini also carries various spectrometers and radar instruments that allowed the probe to observe features that were obstructed, such as the surface of Saturn's moon Titan, which was otherwise hidden underneath the clouds.
+
+635: The amount of data, in gigabytes, that Cassini has collected. The complex scientific dataCassini has sent back to mission scientists on Earth includes electromagnetic spectrum observations, information on dust particles and a collection of Saturn's plasma characteristics.
+
+890 million: The average distance in miles between the Earth and Saturn. It translates to roughly 1.43 billion kilometers.
+
+83: Total minutes it will take the light from Saturn to reach Earth during the end of Cassini's mission. Since the speed of light is quite fast, it is used to measure the distances of faraway objects, such as stars and galaxies. The distance between Earth and Saturn can change, depending on where the planets are in their respective orbits, and therefore the time for light to travel from one world to the other will also change. 
+
+294: Final orbit count of Cassini around Saturn.
+
+2: Number of oceans that the spacecraft discovered. Cassini found that both Titan and Enceladus are home to underground oceans. Many scientists now believe that Earth resembled Titan before life formed here and that Titan and Enceladus could be home to alien microbes. Preventing Cassini from contaminating these worlds is one key reason the spacecraft is being disintegrated on purpose, before its fuel runs out.
+
+3: The total number of missions that the Cassini spacecraft completed. Cassini's journey began in 1997, and it reached Saturn in 2004. It completed its first mission in four years, and in 2008, the spacecraft extended its coverage of the planet with the two-year Equinox mission. In 2010, Cassini began the mission that it ends tomorrow, the Solstice mission.
+
+6,504: The amount of propellant Cassini already used up in lbs., which translates to 2,950 kilograms. The probe set out with 6,565 lbs., or 2,978 kg, of fuel. This narrow gap between the numbers indicates Cassini is running low on fuel. If the probe were allowed to orbit Saturn without any way to for NASA to navigate it, Cassini would be at risk of crashing onto a Saturnian moon and disturbing that body's natural processes.
+
+12,593: Weight in lbs. when Cassini set off with the Huygens probe, fuel, adaptor and other instruments. That translates to 5,712 kg.

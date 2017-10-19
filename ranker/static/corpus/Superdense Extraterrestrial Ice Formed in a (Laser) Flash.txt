@@ -1,0 +1,27 @@
+Superdense Extraterrestrial Ice Formed in a (Laser) Flash
+
+	In a new experiment, researchers have created a superdense version of ice found deep within icy moons and colliding comets, and watched it form in nanoseconds.
+
+	The scientists created the ice by exposing ordinary water to a sudden, intense, laser-generated shock wave, and they observed the formation of the superdense phase of ice, called ice VII, using rapid X-ray pulses to document its nearly instantaneous phase change. The transformation took place at the SLAC National Accelerator Laboratory's Linac Coherent Light Source -- the world's most powerful X-ray laser.
+
+	"We're really excited about this work because it's the first diffraction evidence, or structural evidence, of seeing liquid water transform in real time, in situ, into a high-pressure crystalline phase," Arianna Gleason, lead author of the new work, told Space.com. "The implications for this work in the planetary science context and geoscience context, for icy satellites or icy large planetary bodies -- say, the ice giants even in our own solar system -- is really exciting." Gleason is a researcher at Los Alamos National Laboratory and a visiting scientist at Stanford University in California, where the SLAC National Accelerator Laboratory is located. [Rosetta Sees Signs of Water Ice on Comet Surface (Photos)]
+
+	Water molecules in their many forms are found all over the solar system; they gush from subsurface oceans on Saturn's moon Enceladus and Jupiter's moon Europa, form the bodies of icy comet visitors from the distant Kuiper Belt and appear in trace amounts in many planets' atmospheres.
+
+	On Earth, humans are familiar with the way water vapor can turn into liquid water, and liquid water to ice, as temperature decreases or pressure increases (and it can go from ice to water to vapor with the reverse). In certain conditions, ice can even turn straight into water vapor -- a process called sublimation. But those are far from the only forms water can take; by going to otherworldly extremes of temperature and pressure, water molecules can slip into different crystalline forms.
+
+Ordinary ice forms hexagonal crystals, but the form of ice the researchers investigated, ice VII, has a cubic structure. This form of ice is difficult to create and sustain in the lab, and until now, it's been impossible to measure its formation. However, researchers theorize that it forms briefly when comets or icy moons collide, affecting the way craters are shaped.
+
+	To re-create that collision environment, Gleason's group sandwiched a tiny, pen-tip-size package of liquid water in a tiny cell measuring 2 by 2 millimeters (0.08 by 0.08 inches). They shined a powerful green laser at a piece of diamond on the edge of the cell, vaporizing its edge "almost instantaneously" into plasma. That force sent shock waves blasting in the other direction, passing through the water.
+
+	"It really is like a tiny rocket effect," Gleason said. "We discovered that we can transform the liquid into a solid just by moving the shock wave through. And during that tiny, short amount of time -- it really is only a few nanoseconds, that's a billionth of a second -- we probe with these ultrafast and brilliant X-ray pulses."
+
+	Although this type of shock-compression process has been done before, documenting how the water molecules rearranged is only possible with the Linac X-ray laser, Gleason said. Like a flip-book, the X-ray images provide a moving record of how the ice formed.
+
+	"Collisions and impacts between large bodies [in space] -- that dynamic process is very hard to model," Gleason said. "And so having a shock compression experiment like this, where we can actually see, [in] real time, how the constituent materials transform from one to another, is really exciting and providing new constraints on the formation of these bodies." [Water Ice in Moon's Shackleton Crater Identified]
+
+	Sarah Stewart, a researcher at the University of California, Davis, who was not involved with the new work, studies how giant impacts shape the craters found on solar system bodies. For her thesis work, she also formed phases of ice like ice VII in the laboratory. The only way that Stewart could confirm that she had created a particular ice was by measuring its density, she said. The new work lets researchers track the structure of the ice as it forms.
+
+	"What's amazing about Arianna's work is that she can reproduce in the lab a little parcel of what nature has done millions of times in the solar system, and let us understand what's possible in terms of these phase changes," Stewart told Space.com. "Nature makes shock waves, just like these lab experiments, by impact cratering, and we have these icy surfaces all over the solar system with impact craters on them."
+
+	Knowing the way ice VII forms during comet and moon collisions is crucial to scientists' understanding of how craters form. In Stewart's work, she wondered whether it formed quickly, which would lead to a crater structure similar to what's seen in reality, or slowly -- which might demand another explanation for crater shape. This work affirms that ice VII can form extremely quickly.

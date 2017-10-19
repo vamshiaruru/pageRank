@@ -1,0 +1,9 @@
+How SpaceShipOne Works 
+In the past, space travel has only been possible with the backing of well-funded, huge government space programs. But the creators of SpaceShipOne, the first non-government manned spacecraft, have set out to change that.
+Space Exploration Image GalleryA 
+Keep Reading Below
+The ship is already a success on one level -- on October 4th, 2004, it won the $10 million Ansari X Prize. The competition challenged independent designers to safely put three people into space twice in two weeks with a reusable spacecraft.
+This prize wasn't the ultimate motivation for the development of SpaceShipOne, however. The spaceship's creators envision a world where space travel is a thriving commercial business catering to anyone who has the desire to venture to the stars.
+While that may sound far-fetched, consider that Charles Lindbergh's historic 1927 solo flight from New York to Paris won the $25,000 Orteig Prize. And it was Lindbergh's successful flight that ushered in the modern airline industry. So, years from now, when space tourism is as common as a trip to Disney World, we may look back on SpaceShipOne as the undertaking that turned a page in history.
+HowStuffWorks learned about SpaceShipOne from Matthew Gionta, chief engineer of the company that built it -- Scaled Composites. In this article, Matthew tells us how SpaceShipOne works and what it's like to fly in this spaceship. We'll also look at the details of the design, the propulsion system, and the privately funded space program that spawned it all.
+SpaceShipOne and White Knight took off at 9:45 EST, and SpaceShipOne was released from White Knight at around 50,000 feet. After a few seconds of freefall, Melvill fired SpaceShipOneas hybrid rocket motor for 80 seconds, propelling him into space for three minutes. SpaceShipOne landed safely just over an hour after it took off.

@@ -1,0 +1,29 @@
+White House Releases Dangerous-Asteroid Strategy
+
+	The White House has released a "National Near-Earth Object Preparedness Strategy" -- a document developed by the Interagency Working Group (IWG) for Detecting and Mitigating the Impact of Earth-bound Near-Earth Objects (DAMIEN).
+
+	According to the strategy document, it "seeks to improve our nation's preparedness to address the hazard of near-Earth object (NEO) impacts by enhancing the integration of existing national and international assets and adding important capabilities that are currently lacking."
+
+	The strategy builds on efforts at NASA to better detect and characterize the NEO population, as well as recent efforts at the Department of Homeland Security (DHS) to prepare for and respond to a NEO impact. [Potentially Dangerous Asteroids in Images]
+
+	The document was published last month by the White House Office of Science and Technology Policy.
+
+	There are seven main goals underpinning the effort to enhance the United States' preparedness for NEO impacts, the Strategy notes:
+
+"Enhance NEO Detection, Tracking and Characterization Capabilities. Objectives include: developing a capability roadmap to inform a strategy for investing in both U.S. and foreign abilities for detection, tracking and characterization; improving observation capabilities for more complete and rapid observation of the entire population of NEOs; and updating existing observatories with capabilities to improve characterization assessments.
+
+"Develop Methods for NEO Deflection and Disruption. Objectives include: developing capabilities for fast-response, focused reconnaissance and characterization; researching deflection and disruption capabilities for NEOs of varying size, mass, composition and impact warning times; and researching technologies required for deflection and disruption concepts.
+
+"Improve Modeling, Predictions, and Information Integration. Objectives include: ensuring that adequate modeling capabilities are developed for each topical need, especially for modeling NEO trajectories to reduce orbit uncertainties and predicted impact effects; determining what outputs are required by whom; and establishing an organizational construct to coordinate the development and dissemination of modeling results.
+
+"Develop Emergency Procedures for NEO Impact Scenarios. Objectives include: promoting a collaborative national approach to defend against, mitigate, respond to, and recover from a NEO impact event; and developing coherent national and international communication strategies to facilitate NEO impact preparations.
+
+"Establish NEO Impact Response and Recovery Procedures. Objectives include: establishing national and international protocols to efficiently respond to a NEO impact, whether in deep ocean, coastal regions or on land; and facilitating international cooperation and planning to recover from a NEO impact in a timely manner with minimal disruption.
+
+"Leverage and Support International Cooperation. Objectives include: building international support and policies for acknowledging and addressing the potential Earth impact of a NEO as a global challenge; fostering consultation, coordination and cooperation channels and efforts for the planning for, impact emergency preparedness before, and response to a NEO impact; increasing engagement with the international community on observation infrastructure, data sharing, numerical modeling and scientific research; strengthening international coordination and cooperation on NEO data and National Near-Earth Object Preparedness Strategy analyses; and promoting a collaborative international approach to preparedness for NEO events.
+
+"Establish Coordination and Communications Protocols and Thresholds for Taking Action. Objectives include: coordinating the communication of detected impact threats within the U.S. Government, as well as with other governments, media and the public; developing a set of thresholds to aid U.S. decisions in whether to implement deflection or disruption missions; developing decision flowcharts for NEO hazard scenarios incorporating benchmarks and decision thresholds; and developing protocols for international interactions regarding NEO impacts outside of U.S. territory."
+
+	These seven high-level goals and associated objectives are intended to support a collaborative and federally coordinated approach to developing effective policies, practices and procedures for decreasing the nation's vulnerabilities associated with the NEO impact hazard, according to the Strategy.
+
+	In a concluding statement, the Strategy document notes that, as with other low-probability, high-consequence hazards, "potential NEO impacts pose a significant and complex challenge."

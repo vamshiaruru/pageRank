@@ -1,0 +1,8 @@
+How do spacecraft re-enter the Earth? 
+ALaunching a spacecraft into space is one thing. BAringing it back is another.
+Spacecraft re-entry is tricky business for several reasons. When an object enters the Earth's atmosphere, it experiences a few forces, including gravity and drag. Gravity will naturally pull an object back to earth. But gravity alone would cause the object to fall dangerously fast. Luckily, the Earth's atmosphere contains particles of air. As the object falls, it hits and rubs against these particles, creating friction. This friction causes the object to experience drag, or air resistance, which slows the object down to a safer entry speed. Read more about these factors in "What if I threw a penny off the Empire State Building?"
+ 
+Unlike the Apollo vehicles, which were built for one-time use, space shuttles are reusable launch vehicles (RLVs). So instead of merely using ablative material, they must incorporate durable insulation. On the next page, we'll delve more deeply into the modern re-entry process for shuttles.
+
+
+Keep Reading Below

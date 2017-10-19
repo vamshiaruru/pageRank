@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome!</title>
+    <link rel="stylesheet" href="../static/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/Index.css">
+    <script src="../static/js/jquery-3.2.1.min.js"></script>
+    <script src="../static/js/bootstrap.js"></script>
+
+</head>
+<body>
+    <div class="background_img"></div>
+    <div class="content">
+    <form method="post" class = "form" action="{{ url_for('search') }}" >
+        <input name="searchBar" id="searchBar" class =""
+        onfocus="(this.value == 'enter your query!') && (this.value = '')"
+        onblur="(this.value == '') && (this.value = 'enter your query!')">
+        <input name="submitButton" id="submitButton" class="btn btn-primary"
+               value="Search!" type="submit">
+    </form>
+    </div>
+</body>
+</html>

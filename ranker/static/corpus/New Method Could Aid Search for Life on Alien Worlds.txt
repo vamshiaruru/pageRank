@@ -1,0 +1,47 @@
+New Method Could Aid Search for Life on Alien Worlds
+
+	A newly proposed technique could make it possible to search for life on alien planets much sooner than scientists had expected.  
+
+	Earlier this year, scientists discovered a planet orbiting the nearest star to Earth's own sun. Although relatively little is known about this newly discovered planet, which was dubbed Proxima b, evidence suggests it's possible that it has the right conditions to support life.
+
+	Of course, scientists are eager to look for signs of life on Proxima b (and members of the general public are eager to hear the results). But a deep look at the planet's atmosphere, where signs of life might hide, might require massive, next-generation, space-based telescopes that aren't expected to get off the ground until at least the 2030s. [Giant Space Telescopes of the Future (Infographic)]
+
+	But now, at least two different groups of astronomers are investigating a method for doing atmospheric studies of Proxima b -- and other, possibly habitable planets like it -- using ground-based telescopes that are scheduled to come online in the 2020s, significantly cutting down on the wait time.
+
+	Thousands of planets have been identified around stars other than our own, a majority of them in the past six years, thanks to the dedicated Kepler space telescope (although many other observatories have contributed to this exoplanet treasure trove).
+
+	But finding planets is much different from characterizing their properties -- things such as a planet's mass and diameter; whether it is made of rock or primarily of gas; its surface temperature; whether it has an atmosphere; and what that atmosphere is composed of.  
+
+	Earlier this month, at a workshop hosted by the National Academy of Sciences that explored the search for life beyond Earth, Matteo Brogi, a Hubble fellow at the University of Colorado, described a method for studying the atmosphere of Proxima b using next-generation ground-based telescopes.
+
+	The approach could be applied to other planets that, like Proxima b, are rocky, and orbit in the habitable zone of relatively cool stars, known as red dwarfs. The astronomical community is already emphasizing the search for "Earth-like" planets around these small stars because the latter are incredibly common in the galaxy; astronomers have even jokingly referred to red dwarfs as the "vermin of the sky."
+
+	"The frequency of small planets around small stars is extremely high; on average, there are about 2.5 planets per star," Brogi said. "Regarding habitable planets around small stars, there should be more or less a frequency of close to 30 percent. So every three stars should have a habitable planet."
+
+	The approach Brogi and his colleagues are investigating would combine two different techniques for studying stars and exoplanets. The first is an extremely common technique in astronomy called high-resolution spectroscopy, which essentially looks at light from an object in extremely fine detail.
+
+	To understand high-resolution spectroscopy, consider the way sunlight passes through a prism and produces a rainbow; the glass takes the light and fans it out like an accordion, revealing that the whitish colored light is actually composed of various colors.
+
+	Spectroscopy spreads the light out even more -- stretching that accordion out to unrealistic lengths for a musical instrument -- revealing finer and finer detail about the colors (wavelengths) that are contained in the light from stars, planets and other cosmic objects. The resulting band of colors is called an object's spectrum.
+
+	The first scientists to use spectroscopy discovered something so amazing that, without it, the field of modern astronomy might be entirely unrecognizable: Chemical elements leave a unique fingerprint in the light spectrum. In other words, if a star is made of hydrogen and helium, those elements will leave a distinct signature on the light the star emits -- when astronomers fan out the light from the star, they can see that signature in the wavelengths that are present or not present. This tool has allowed astronomers to learn about the composition of objects billions of light-years away, and helped to uncover the incredible fact that we are all made of stardust.
+
+	So if spectroscopy can be applied to the light coming from exoplanets, scientists might get a look at the composition of the planetary atmospheres. It's still unclear to scientists which atmospheric chemical mixtures would strongly indicate the presence of life -- most plants on Earth consume carbon dioxide and produce oxygen, and other forms of life produce methane, so a combination with high levels of oxygen and methane might indicate the presence of biology. However, there are potential false positives and false negatives, not to mention potential life-forms that consume and produce different chemicals than living organisms on Earth.
+
+	But there are a couple of hurdles standing in the way of performing spectroscopy on a planet, and one of the biggest is that trying to see the light from a planet (which is fairly dim) when it is orbiting right next to a star (which is incredibly bright) is like trying to see the glow of a firefly against a backdrop of 1,000 stage spotlights (which would be difficult).
+
+	So Brogi and his colleagues have proposed a way to help separate those two sources of light. Because the planet is moving around the star, it is also moving toward, and then away from, the Earth throughout its orbit. When a source of light moves toward an observer, the light waves become compressed; when the source moves away from the observer, the light waves become stretched out. This is called the Doppler effect, or redshift. It also happens with sound waves, which is why when a police siren is moving toward you, it sounds like it is increasing in pitch; the waves get pushed together so that they literally have a higher frequency. When the car passes you and starts moving away, it sounds like the siren is getting lower in pitch, because the waves get stretched out and the frequency goes down.
+
+	The idea is that, out of the sea of light coming from a distant star, scientists could pick out the island of light coming from the planet by looking for the redshifted/Doppler shifted light. (This also could be used to separate any interference from Earth's own atmosphere.) Looking for those shifts in the light also falls under the header of spectroscopy.
+
+	Nonetheless, the Doppler shift approach wouldn't be powerful enough to work on its own, and this is where the second technique comes in: Astronomers would need to directly image the star or planet system first.
+
+	The planet-finding technique known as "direct imaging" is pretty much what it sounds like: an attempt to get a direct snapshot of both a planet and the star it orbits. To do this, scientists try to reduce the star's blinding glare enough so that they can see the light from the planet. It's a challenging method and one that can't be done for just any system -- the planet has to be sufficiently bright compared to its parent star, which means most of the planets seen with direct imaging thus far are gas giants like Jupiter, and oriented in such a way that it can be viewed clearly from Earth. 
+
+	So Brogi and his colleagues proposed the method of first directly imaging the planetary system, using that image to locate the planet, and then further separating the planet's light from the star's light using the Doppler method. From there, they can use high-resolution spectroscopy to learn about the planet's atmosphere.
+
+	Telescopes currently in operation don't have the sensitivity to make this plan a reality, but some very large telescopes currently under development could. These scopes should be able to directly image smaller planets, as long as those planets are orbiting dimmer stars. Those include the Giant Magellan Telescope, scheduled to turn on around 2021, and the European Extremely Large Telescope, set to begin taking data as early as 2024. Direct imaging capabilities are likely to improve by leaps and bounds with these telescopes, but with direct imaging alone, it will likely not be possible to characterize many Earth-size, potentially habitable worlds.
+
+	During his talk, Brogi said there should be "on the order of 10" potentially habitable planets that this method could identify and study.
+
+	Brogi noted that there are caveats to the plan. For example, many of the predictions that he and his team made about how sensitive the method would be were "based on best-case scenarios," so dealing with real data will undoubtedly pose challenges. Moreover, the method compares the observed planetary spectra with laboratory experiments that recreate the expected spectra for various chemical elements, which means any errors in that laboratory work will carry over into the planet studies. But overall, Brogi said he and his colleagues think the approach could provide a better glimpse of the atmospheres of small, rocky, potentially habitable planets than scientists are likely to see for a few decades.

@@ -1,0 +1,33 @@
+'Alien Megastructure' Star Is at It Again with the Strange Dimming
+
+	The perplexing cosmic object known as "Boyajian's star" is once again exhibiting a mysterious pattern of dimming and brightening that scientists have tried to explain with hypotheses ranging from swarms of comets to alien megastructures.
+
+	Today (May 19), an urgent call went out to scientists around the world to turn as many telescopes as possible toward the star, to try and crack the mystery of its behavior.
+
+	"At about 4 a.m. this morning I got a phone call ... that Fairborn [Observatory] in Arizona had confirmed that the star was 3 percent dimmer than it normally is," Jason Wright, an associate professor of astronomy at Pennsylvania State University, who is managing a study of Boyajian's star, said during a live webcast today at 2 p.m. EDT (1800 GMT). "That is enough that we are absolutely confident that this is no statistical fluke. We've now got it confirmed at multiple observatories, I think."
+
+		ALERT:@tsboyajian's star is dipping
+
+		This is not a drill.
+
+		Astro tweeps on telescopes in the next 48 hours: spectra please!
+
+	Star KIC 8462852, or Boyajian's star (also nicknamed "Tabby's star," for astronomer Tabetha Boyajian, who led the team that first detected the star's fluctuations), has demonstrated an irregular cycle of growing dimmer and then returning to its previous brightness. These changes were first spotted in September 2015 using NASA's Kepler Space Telescope, which was built to observe these kinds of dips in a star's brightness, because they can be caused by a planet moving in front of the star as seen from Earth.
+
+	But the brightness changes exhibited by Boyajian don't show the kind of regularity that is typical of a planet's orbit around its star, and scientists can't see how the changes could be explained by a system of planets.
+
+	Scientists have hypothesized that the changes could be due to a swarm of comets passing in front of the star, that they're the result of strong magnetic activity, or that it's some massive structure built by aliens. But no leading hypothesis has emerged, so scientists have been eager to capture a highly detailed picture of the light coming from the star during one of these dimming periods. This detailed view is what scientists typically call an object spectra. It can reveal, for example, the specific chemical elements that are in a gas. It can also tell scientists if an object is moving toward or away from the observer.
+
+@ajebson @NASAKepler @LCO_Global @keckobservatory @AAVSO @nexssinfo @NASA @NASAHubble @Astro_Wright @BerkeleySETI @ESO its 2% in r' band and looks like its the start pic.twitter.com/TjJdSY2ar9
+
+	"Whatever's causing the star to get dimmer will leave a spectral fingerprint behind," Wright said during the webcast, which took place in the Breakthrough Listen laboratory at the University of California, Berkeley. "So if there is a lot of dust between us and the star ... it will block more blue light than red light. If there is gas in that dust, that gas should absorb very specific wavelengths and we should be able to see that. And so, we've been eager to see one of these changes in one of these dips of the star so we can take some spectra."
+
+	But the scientists couldn't predict when the next dimming event would occur or how long it will last. (Dips detected by Kepler lasted for between two and seven days, according to Wright.) Professional-grade telescopes typically schedule observing time weeks or months in advance, so Wright and his colleagues knew their observations would have to come at the behest of colleagues who were already using the telescopes for other projects.
+
+	"We need to have a network of people around the world that are ready to jump on [and observe it]," Wright said. "Fortunately, Tabby's star is not too faint and so there are a lot of observers and telescopes ... that have graciously agreed to take some time out of their science to grab a spectrum for us [tonight]."
+
+#TabbysStar IS DIPPING! OBSERVE!! @NASAKepler @LCO_Global @keckobservatory @AAVSO @nexssinfo @NASA @NASAHubble @Astro_Wright @BerkeleySETI
+
+	Wright said the call had gone out to amateur as well as professional astronomers to observe Boyajian's star during this dimming period. The largest and most powerful telescopes that will heed the call are the twin 10-meter telescopes at the W.H. Keck Observatory in Hawaii. The team is working to gain observing time on at least three other large telescopes on the U.S., according to Wright.
+
+	The Breakthrough Listen initiative, which searches for signs of intelligent life in the universe, has also taken an interest in the star and will be observing it with the Automated Planet Finder telescope at Lick Observatory in California, according to Andrew Siemion, director or the Berkeley SETI Research Center, said in the webcast.

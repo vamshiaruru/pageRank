@@ -1,0 +1,43 @@
+Why This Meteorologist Is Eager for the Total Solar Eclipse
+
+This article was originally published at The Conversation. The publication contributed the article to Live Science's Expert Voices: Op-Ed & Insights.
+
+	By all accounts a total solar eclipse is a life-changing event. I wouldn't know, I've never seen one. Fortunately for me and millions across the U.S., that will change this summer.
+
+	I'm not really an eclipse expert, even though I can't wait for August 21. I'm actually a meteorologist, and a fairly specialized one at that. Six months ago, I didn't know the difference between an umbra and penumbra. What I did know is that the sun provides energy for everything that happens on our planet, and that the daily cycle of sun rising and setting is a key component of what happens in the atmosphere, and how air circulates locally and globally.
+
+	So why is someone who worries about subsecond- and submeter-scale winds interested in this astronomical-scale event? Because any change in incoming sun - such as the complete blackout during a total solar eclipse - will affect the energy received by the land, and in turn the energy transferred back to the atmosphere. And because the total eclipse period is short, those changes will be small. It's both an exciting event and an interesting challenge: a scientist's dream.
+
+	Coupled with advances in observational techniques, every eclipse offers a new chance to prove meteorological theories. This one even more so because coordination across the entire length of the continental United States almost guarantees that someone will have ideal observing conditions. We're prepping our weather balloons and weather stations to take advantage of that opportunity - to see exactly what a short blackout does to atmospheric motion.
+
+	From how pollutants are formed and transported, to how plants exchange carbon using photosynthesis, to what direction the wind blows, daytime processes are different from nighttime processes. Without energy input from the sun, the lower atmosphere slowly flips itself at night.
+
+	During the day, it's warm near the ground and cooler up above; at night it's just the opposite. This "stable" (warmer over cooler) air inhibits vertical motion of the air and anything suspended in it. So pollutants can stay closer to the ground, clouds form differently, air flows faster down valleys and at the coasts wind blows offshore instead of on.
+
+	While those generalities are known, the nuances and timings aren't fully understood, and thus they are not completely predictable. That's my sphere of science - turbulence. I'm interested in the atmospheric changes in short times and small spaces that can eventually influence the larger "weather" most people are familiar with.
+
+	The total solar eclipse is a mini-night experience, so we will use it as a natural experiment. Is a brief period without solar radiation enough to cause detectable changes in turbulence and stability, or is it the slower interactions of land and atmosphere over a whole night that are required? We'll take what we find and use it to think about normal non-eclipse conditions.
+
+	By launching a series of weather balloons before, during and after the eclipse we will see the evolution of winds and temperatures above the Earth's surface over time. The instrument packages attached to the balloons take measurements from about 100 meters above the surface up through the lower atmosphere, troposphere and lower stratosphere, eventually reaching nearly 20 kilometers. Scientists are coordinating all across the eclipse's path, and will conduct this same experiment at several sites across the country.
+
+	At our site in South Carolina, we are focusing on the question of whether a total eclipse can generate internal atmospheric gravity waves: parcels of air moving together as chunks trying to regain an equilibrium in temperature and density. (These are different from the gravitational waves that result when black holes collide.) Sometimes gravity waves are visible in clouds. During previous eclipses there has been promising evidence of gravity wave activity, but not enough data from enough locations to fully understand them.
+
+	The vertical profiles of temperature, relative humidity, wind speed and wind direction we collect will be used to answer a number of other scientific questions as well. First, we'll add to the sparse database of eclipse-induced temperature changes and provide quantitative measures of how strong the temperature change is and how long the lag between the total blackness at solar minimum and the temperature minimum is.
+
+	We will also be able to see if the cooling when the sun disappears and sudden rewarming when it returns propagates vertically and, if so, how far above the Earth's surface it goes. In terms of wind, questions to be answered center around changes in wind speed and turbulence intensity. We believe we will see a reduction of both, which provides further explanation for the eerie "eclipse wind" so often cited by human observers.
+
+	This more comprehensive examination of the troposphere and stratosphere in time and space will help inform our modeling and prediction of regional weather and climate.
+
+	But what if the changes are smaller? A helium-filled balloon leaves the ground quickly - ideally at five meters per second - and the first reliable measurement is almost 100 meters above the ground. A lot can happen in 100 meters.
+
+	To fill in that gap, at our site in South Carolina, we are adding other measurements. We've erected a small tower with fine thermocouples every half-meter from the ground up. These thin wires can detect temperature changes over 0.1-second time periods and will help us see if the darkness causes a very shallow layer of cooler air to start to grow under the typical daytime warmth.
+
+	The tower will also house two sonic anemometers - sensors that use disruption in a sound pulse to measure the wind speed in three dimensions at very fast rates - to see if a wind shear develops near ground level.
+
+	An infrared gas analyzer will record carbon fluxes throughout the eclipse period to see if there is any detectable change in plant respiration. Remember, they "breathe" in carbon dioxide. Some animals interpret an eclipse as night - do the plants?
+
+	Finally, we'll also deploy a lidar system. That's like a radar, but with a laser that will point upward. This is to see if there are any changes in the depth of the boundary layer - a transition point between where the atmosphere is affected by the Earth's surface to the free troposphere above.
+
+	And we're going to do all of this in just two minutes and 36 seconds. A tiny window for a big impact.
+
+	A total solar eclipse is often referred to as a meteorological playground, and that is just how it feels. We're taking out all our scientific toys to see what we can find. Eclipse events are relatively rare; meteorologists like me take what we know about the interactions between land and air to think logically about what will happen during an eclipse. But until we see it, put an equation on it and predict the next one, it still falls into the realm of theory, not reliably predictable weather.

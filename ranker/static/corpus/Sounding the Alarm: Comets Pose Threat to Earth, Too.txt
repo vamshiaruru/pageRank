@@ -1,0 +1,55 @@
+Sounding the Alarm: Comets Pose Threat to Earth, Too
+
+	SAN FRANCISCO -- If your death-from-above musings focus solely on asteroids, you need to broaden your worried mind.
+
+Comets can also deliver a heaping helping of calamity to Earth, and scientists and policymakers alike should start taking measures to combat the threat, said Joseph Nuth, a researcher at NASA's Goddard Space Flight Center in Greenbelt, Maryland.
+
+	"Comets have largely been ignored by people that are interested in defending the planet," Nuth said during a news conference Monday (Dec. 12) here at the annual fall meeting of the American Geophysical Union (AGU). [Best Close Encounters of the Comet Kind]
+
+	The main reason for this lack of attention is the perception that not much can be done about an incoming comet, because of the difficulties involved in spotting and tracking these icy bodies, Nuth said. But something can indeed be done, if we're sufficiently prepared, he stressed.
+
+	The fixation on asteroids is understandable. For starters, they're far more common in near-Earth space than comets are, and therefore make up the vast majority of impactors.
+
+	Near-Earth asteroids (NEAs) are also much easier to detect and track than comets are, because NEA orbits are relatively similar to that of our planet. Comets, on the other hand, spend the vast majority of their lives out in the dark depths of the outer solar system, giving astronomers far fewer chances to spot them before they may come through our neighborhood. (The famous Halley's comet, for example, rounds the sun just once every 75 years or so.)
+
+	"A comet comes out of nowhere, pretty much," Nuth said during a scientific talk at AGU on Monday, a few hours before the news conference.
+
+	As an example, he cited Comet Siding Spring, a roughly 0.3-mile-wide (0.5 kilometers) object that was discovered in January 2013. Just 22 months later, in October 2014, Siding Spring buzzed Mars, coming within 87,000 miles (140,000 km) of the Red Planet. [Mars-Bound Comet: Photos of Comet Siding Spring]
+
+	So the element of surprise is more in play with comets than it is with NEAs (the biggest, most dangerous of which have nearly all been found already, scientists say). And that's a problem for deflection efforts, which would launch a spacecraft out to meet an incoming impactor (and then nudge, knock or blast it off course).
+
+	"If you look at the schedule for producing high-reliability spacecraft, and launching them, it takes five years to launch a spacecraft," Nuth said during the AGU news conference. 
+
+	Other comet characteristics are concerning as well. For example, Nuth said, the typical comet is larger than the average NEA and encounters Earth at a much higher relative velocity because of its highly elliptical orbit, which is more conducive to direct hits. (NEAs' more Earth-like paths, by contrast, lead to more glancing blows.)
+
+	Whereas the average NEA that hits Earth does so at about 44,700 mph (71,940 km/h), it's not uncommon for comets to hurtle by planets more than twice as fast, Nuth said. In October 2014, for instance, Comet Siding Spring zoomed past Mars at about 125,000 mph (200,000 km/h).
+
+	So, while comet strikes on Earth are relatively rare -- much rarer than asteroid impacts, anyway -- they can be potentially cataclysmic, Nuth said. That's why he's sounding the alarm. 
+
+	Nuth thinks the world should start gearing up for a potential comet strike now, or in the very near future at least, because leaving things until the last minute may make deflection efforts impossible.
+
+	"It's really imperative that we reduce that reaction time," he said during the news conference, referring to the typical five-year lag between mission approval and launch.
+
+	Nuth's plan calls for building two spacecraft -- an "interceptor" and an "observer" -- and storing them until they're needed. If a potentially dangerous comet appears in the sky, the observer would be launched to study the object and help astronomers figure out its orbital path, and thereby assess the threat it poses to Earth. If this threat is deemed serious enough, the interceptor would be launched to deflect the comet.
+
+	The interceptor would be capable of carrying a nuclear bomb, Nuth said. (Nukes may be necessary to deal with big space objects that are detected with little warning time.)
+
+	This strategy would not necessarily be comet-specific, he added; it could also be used to mitigate a big and dangerous asteroid that managed to slip through astronomers' surveillance.
+
+	To make all this happen, NASA would have to make a request to Congress.
+
+	"We're talking a considerable amount of money," Nuth said. "The NASA request would probably be for several hundred million dollars to produce one of these spacecraft."
+
+	Such a request is not on the books, Nuth said.
+
+	"I'm a NASA scientist," he said. "I'm not a NASA policymaker; I'm not even in the adminstration of NASA. So this is more a scientific recommendation."
+
+	It may also be possible to deflect an incoming comet without launching a spacecraft out to meet it. 
+
+	For example, powerful laser blasts could vaporize portions of a hazardous comet's surface from afar, causing the eruption of gaseous jets that would push the icy wanderer off its original trajectory, another study presented at AGU on Monday suggests.
+
+	"These effects have been observed by heating by the sun alone," lead author Qicheng Zhang, a physics undergraduate at the University of California, Santa Barbara, told Space.com.
+
+	The computer simulations performed by Zhang and his colleagues suggest that the same ground-based laser system engineers plan to build for the Breakthrough Starshot project -- which aims to blast nanoprobes toward Alpha Centauri at 20 percent the speed of light using lasers -- would also be able to deflect some comets. (One of Zhang's co-authors is Philip Lubin of UCSB, a key member of the Breakthrough Starshot team.)
+
+	"A sufficiently large [laser] array can deflect any comet," Zhang and his team wrote in their study. 

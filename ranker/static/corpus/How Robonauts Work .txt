@@ -1,0 +1,13 @@
+How Robonauts Work 
+It's hard to imagine a more dramatic undertaking than space travel, in which brave souls seal themselves in amazing vehicles and are launched by controlled explosions into an environment hostile to all known life -- all in the name of science and human daring.
+ 
+Landing a spaceship on the moon wouldn't have been the same without astronauts. Through their commentary, people on Earth watching the grainy black-and-white pictures of the lunar landscape shared a connection to the eternal and to the extraterrestrial. Their journey endowed us with a common experience greater than anything Hollywood could create, because it was real.
+ 
+Space travel takes its toll on astronauts because the human body is not suited to the harsh conditions governing the realms beyond our atmosphere. Inside a capsule or shuttle, space travelers must exercise regularly to stave off the bone density loss and muscle atrophy caused by prolonged periods spent in microgravity. The crew compartments must be pressurized with the right mix of breathable gases and water vapor, and systems must circulate and revitalize those gases to keep the air breathable. Temperature must be carefully regulated as well, to say nothing of systems to supply food and water and dispose of waste.
+ 
+Outside, astronauts encounter temperatures that can swing from 248 degrees F (120 degrees C) to minus 148 degrees F (minus 100 degrees C), and that's just near Earth. The temperature of deep space plummets to minus 454 degrees F (minus 270 degrees C). Without the Earth's atmosphere to shield them from the sun's radiation, astronauts survive by wearing bulky space suits that cost millions of dollars apiece and aren't practical in an emergency. If the International Space Station (ISS) were struck by an object and needed to be repaired immediately, it would take an astronaut hours to prepare for a spacewalk and perform repairs [source: Coulter, "Robonaut 2 Set to Launch in February"].
+ 
+NASA and other space programs recognize the frailty of the human body and are working on ways to make the most of their astronauts' time while reducing their exposure to danger. One of the more exciting approaches currently under way has given rise to a new breed of astronaut, one better suited to survive outside of spacecraft.
+ 
+In this article, we'll learn about the development of these robotic astronauts, or robonauts, and how they will assist humans in space.
+Keep Reading Below

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search results!</title>
+    <script src="../static/js/jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="../static/css/bootstrap.css">
+    <script src="../static/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="../static/css/displayResults.css">
+</head>
+<body>
+    <script src="../static/js/displayResults.js"></script>
+    <div id="wrapper">
+    <form method="post" action="{{ url_for('search') }}" id="homeSearch" >
+        <input name="searchBar" id="searchBar" class =""
+               placeholder="enter your query!" size="70">
+        <input name="submitButton" id="submitButton" class="btn btn-primary"
+               value="Search!" type="submit">
+    </form>
+    </div>
+    {% if error %}
+        <span class="boolean_error"><b>There is no document in the
+            corpus that contains all the words of your query. But we
+            have found the following documents that may be relevant to your
+            query!</b><br>
+        </span>
+    {% endif %}
+    <b> Input query: {{ input_query }}</b>
+    {% if boolean_results|count < 10 and not error %}
+        <span><br> You entered a pretty rare query! These are the only
+            documents that contain all the words in your query. Congrats
+            on making us work harder!
+        </span>
+        <table class="table table-striped">
+        {% for document in boolean_results %}
+            {% set documentPath = document[9:] %}
+            {% set documentName = document[16:-4] %}
+            <tr>
+                <td><a href="{{ url_for('static',filename=documentPath) }}">
+                    {{ documentName }}
+                    </a>
+                </td>
+                <td><a href="javascript:void(0)" onclick="readFile(
+                        $(this).parents('tr:first').find('td:first'))"
+                        target="_blank"
+                        class="btn btn-info"> Open
+                    </a>
+                </td>
+            </tr>
+        {% endfor %}
+        </table>
+    {% endif %}
+    <p> We have found these documents that may be of interest to you.Do take a
+        look.
+        <button onclick="hideClass('score')" class="btn">
+        Toggle Scores
+        </button>
+    </p>
+    <br>
+    <table class="table table-striped">
+    {% for document in title_results %}
+        <tr>
+            {% set documentPath = document[9:] %}
+            {% set documentName = document[16:-4] %}
+            <td><a href="{{ url_for('static',filename=documentPath) }}">
+                {{ documentName }} </a>
+            </td>
+            <td><a href="javascript:void(0)" onclick=
+                    "readFile($(this).parents('tr:first').find('td:first'))"
+                   target="_blank" class="btn btn-info">Open
+                </a>
+            </td>
+        </tr>
+    {% endfor %}
+    {% for document,score in results %}
+        <tr>
+            {% set documentPath = document[9:] %}
+            {% set documentName = document[16:-4] %}
+            <td><a href="{{ url_for('static',filename=documentPath) }}">
+                {{documentName }}</a>
+            </td>
+            <td><a href="javascript:void(0)" onclick=
+                    "readFile($(this).parents('tr:first').find('td:first'))"
+                   target="_blank" class="btn btn-info">Open
+                </a>
+            </td>
+            <td><span class="score"><b>{{ score }}</b></span></td>
+        </tr>
+    {% endfor %}
+    </table>
+    {% if zero_scores %}
+        <div class="warning">
+            <i>The following words do not exist in our corpus:</i>
+            {% for word in zero_scores.keys() %}
+                <ul>
+                    <li>{{ word }}. Perhaps you meant:
+                    {% for correction in zero_scores[word] %}
+                        <ul>
+                        <li>{{ correction }}</li>
+                        </ul>
+                    {% endfor %}
+                    </li>
+                </ul>
+            {% endfor %}
+        </div>
+    {% endif %}
+    <b>You can tell us how much importance to give for each word!</b>
+    <div class=" container form-group">
+    <form method="post" action="{{ url_for('weighted_search')}}">
+        <input type="hidden" name="query" value="{{ input_query }}"/>
+        {% for query_word in scores %}
+            <label for="{{ query_word }}">{{ query_word }}:</label>
+            <input name="{{ query_word }}" id="{{ query_word }}"
+                   class="form-control"
+                   placeholder=" Score :{{ scores[query_word] * 100 }}"/>
+            <br>
+        {% endfor %}
+        <input type="submit" id="weightedSearch" value="Search"/>
+    </form>
+    </div>
+</body>
+</html>
