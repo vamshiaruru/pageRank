@@ -73,5 +73,6 @@ class PreProcessor(object):
             i += 1
         np.save(self.link_prob, prob)
 
+
 if __name__ == "__main__":
     processor = PreProcessor()

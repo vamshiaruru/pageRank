@@ -183,9 +183,3 @@ class Searcher(object):
                                                           db.get(key, empty_set))
 if __name__ == "__main__":
     pass
-    # searcher = Searcher("space")
-    # results = searcher.cosine_score()
-    # scores = searcher.query_score
-    # print len(searcher.title_results)
-    # print len(results)
-    # print scores
