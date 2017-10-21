@@ -1,4 +1,4 @@
-from __future__ import  division
+from __future__ import division
 from PreProcessor import PreProcessor
 import numpy as np
 import scipy.sparse as ss
