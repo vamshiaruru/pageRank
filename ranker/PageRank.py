@@ -30,7 +30,9 @@ class PageRanker(object):
                 specific_doc_ids.append(db[doc[16:]])
         specific_vector = np.zeros(m.shape[0])
         for doc_id in specific_doc_ids:
-            specific_vector[doc_id] = 
+            specific_vector[doc_id] = (1 - self.taxation_factor) / \
+                                      len(specific_doc_ids)
+
 
 if __name__ == "__main__":
     PageRanker().topic_specific_ranker("space")
