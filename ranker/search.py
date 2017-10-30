@@ -109,7 +109,7 @@ class Searcher(object):
         for key in self.query_score.iterkeys():
             self.query_score[key] /= vector_length
 
-    def cosine_score(self):
+    def cosine_score(self, **kwargs):
         """
         Calculates cosine score for query_words. It also adds query_word to
         query_corpus. If the word was already present in the corpus,
@@ -152,7 +152,8 @@ class Searcher(object):
         scores = scores.items()
         sorted_scores = heapq.nlargest(20, scores, key=operator.itemgetter(1))
         self.fill_title_results()
-
+        if kwargs.get('1'):
+            return heapq.nlargest(50, scores, key=operator.itemgetter(1))
         if len(self.title_results) > 10:
             return sorted_scores
         else:
@@ -181,5 +182,25 @@ class Searcher(object):
                 else:
                     self.title_results = set.intersection(self.title_results,
                                                           db.get(key, empty_set))
+
+    def get_topic_documents(self):
+        """
+        Finds all documents that are related to the topic of the current query.
+        We assume that documents that can be considered as specific to the topic
+        of the query as all those documents that contain non-stop words of the
+        query words.
+        :return: a list of relevant documents.
+        """
+        porter = nltk.PorterStemmer()
+        query_words = [porter.stem(t) for t in word_tokenize(self.query.strip())]
+        query_words = [word.encode("utf-8") for word in query_words]
+        self.query_score_calculator(query_words)
+        specific_documents = set()
+        with closing(shelve.open(self.TITLES)) as db:
+            for key in self.query_score.iterkeys():
+                specific_documents = set.union(specific_documents,
+                                               db.get(key, specific_documents))
+        return specific_documents
+
 if __name__ == "__main__":
     pass
