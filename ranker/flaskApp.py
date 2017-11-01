@@ -3,6 +3,7 @@ Defines various methods that are used to render templates with data obtained
 from python and then use flask to serve them.
 """
 from search import Searcher
+from PageRank import PageRanker
 from flask import Flask, render_template, request
 import unicodedata
 import time
@@ -88,5 +89,6 @@ def weighted_search():
                            error=boolean_error)
 
 if __name__ == '__main__':
+    ranker = PageRanker()
     app.debug = True
     app.run()

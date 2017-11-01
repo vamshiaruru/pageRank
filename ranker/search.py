@@ -117,6 +117,9 @@ class Searcher(object):
         It also populates the stop_word list of this class so as to let the
         user know what are the stop-words.
         Uses heapq.sort to get the top 20 items.
+        ;kwargs['ranker'] = True implies we will use this function to return
+        just top 50 relevant documents, which will then be sorted by order of
+        their page ranks.
         :return: Top 20 documents with highest score
         """
         porter = nltk.PorterStemmer()
@@ -152,7 +155,7 @@ class Searcher(object):
         scores = scores.items()
         sorted_scores = heapq.nlargest(20, scores, key=operator.itemgetter(1))
         self.fill_title_results()
-        if kwargs.get('1'):
+        if kwargs.get('ranker'):
             return heapq.nlargest(50, scores, key=operator.itemgetter(1))
         if len(self.title_results) > 10:
             return sorted_scores
