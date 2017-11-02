@@ -19,17 +19,28 @@ class GraphViewer(object):
 
     def view_graph(self, node_list=[], ranks=None):
         graph = self.make_graph()
+        val_map = {}
+        for node in node_list:
+            val_map[node] = 0.25
         node_list = list(set(node_list + range(0, 30)))
         sub_graph = graph.subgraph(node_list)
+        values = [val_map.get(node, 1.0) for node in
+                  sub_graph.nodes()]
         if ranks is None:
             ranks = dict(sub_graph.in_degree())
         else:
             ranks = {k: v for k, v in enumerate(ranks)}
-        nx.draw(sub_graph, nodelist=ranks.keys(), node_size=[v*50 for v in
-                                                             ranks.values()])
-        nx.draw(sub_graph, nx.spring_layout(sub_graph, k=10))
+        nx.draw(sub_graph, nodelist=ranks.keys(),
+                node_size=[v*500+100 for v in ranks.values()],
+                cmap=plt.get_cmap("jet"), node_color=values, alpha=0.5,
+                pos=nx.spring_layout(sub_graph, k=10))
+        nx.draw_networkx_labels(sub_graph, labels=ranks, font_size=10,
+                                font_weight="bold", font_color="black",
+                                alpha=0.9,
+                                pos=nx.spring_layout(sub_graph, k=10))
         plt.show()
+        plt.axis('off')
 
 
 if __name__ == "__main__":
-    GraphViewer().view_graph()
+    GraphViewer().view_graph([0, 1, 2, 3, 4, 5])
