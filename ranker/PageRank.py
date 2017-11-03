@@ -111,6 +111,40 @@ class PageRanker(object):
                     except networkx.exception.NetworkXError as e:
                         print e
 
+    def visualize_specific_ranker(self, query):
+        viewer = GraphViewer()
+        specific_documents = Searcher(query).get_topic_documents()
+        m = self.basic_matrix
+        specific_doc_ids = list()
+        with closing(shelve.open("ids.db")) as db:
+            for doc in specific_documents:
+                specific_doc_ids.append(db[doc[16:]])
+        specific_vector = np.zeros(m.shape[0])
+        for doc_id in specific_doc_ids:
+            specific_vector[doc_id] = (1 - self.taxation_factor) / \
+                                      len(specific_doc_ids)
+
+        rank_vector = np.full(m.shape[0], 1 / m.shape[0])
+        print len(specific_doc_ids)
+        viewer.view_graph(node_list=list(specific_doc_ids))
+        count = 0
+        while True:
+            count += 1
+            rank_vector1 = m * rank_vector + specific_vector
+            diff = rank_vector1 - rank_vector
+            diff = sum(diff * diff)
+            if diff < 1e-50:
+                break
+            else:
+                rank_vector = rank_vector1
+                if count % 25 == 0:
+                    try:
+                        viewer.view_graph(node_list=list(specific_doc_ids),
+                                          ranks=list(rank_vector),
+                                          mult_factor=40000, concat=150)
+                    except networkx.exception.NetworkXError as e:
+                        print e
+
     def topic_specific_search(self, query, scheme="topic"):
         if scheme == "trust":
             rank_vector = np.load("trustRank.npy")
@@ -129,4 +163,4 @@ class PageRanker(object):
 
 if __name__ == "__main__":
     ranker = PageRanker()
-    ranker.visualize_trust_ranking()
+    ranker.visualize_specific_ranker("cassini crash")
