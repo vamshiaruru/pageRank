@@ -17,7 +17,7 @@ class GraphViewer(object):
                 G.add_edge(n1, n2)
         return G
 
-    def view_graph(self, node_list=[], ranks=None):
+    def view_graph(self, node_list=[], ranks=None, mult_factor=500, concat=100):
         graph = self.make_graph()
         val_map = {}
         for node in node_list:
@@ -29,18 +29,23 @@ class GraphViewer(object):
         if ranks is None:
             ranks = dict(sub_graph.in_degree())
         else:
-            ranks = {k: v for k, v in enumerate(ranks)}
+            temp_ranks = {k: v for k, v in enumerate(ranks)}
+            ranks = dict(sub_graph.in_degree())
+            for node in ranks.keys():
+                ranks[node] = temp_ranks[node]
         nx.draw(sub_graph, nodelist=ranks.keys(),
-                node_size=[v*500+100 for v in ranks.values()],
+                node_size=[v*mult_factor+concat for v in
+                           ranks.values()],
                 cmap=plt.get_cmap("jet"), node_color=values, alpha=0.5,
                 pos=nx.spring_layout(sub_graph, k=10))
-        nx.draw_networkx_labels(sub_graph, labels=ranks, font_size=10,
-                                font_weight="bold", font_color="black",
-                                alpha=0.9,
-                                pos=nx.spring_layout(sub_graph, k=10))
+        if concat == 100:
+            nx.draw_networkx_labels(sub_graph, labels=ranks, font_size=10,
+                                    font_weight="bold", font_color="black",
+                                    alpha=0.9,
+                                    pos=nx.spring_layout(sub_graph, k=10))
         plt.show()
         plt.axis('off')
 
 
 if __name__ == "__main__":
-    GraphViewer().view_graph([0, 1, 2, 3, 4, 5])
+    pass

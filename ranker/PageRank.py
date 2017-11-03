@@ -4,9 +4,11 @@ import numpy as np
 import scipy.sparse as ss
 from search import Searcher
 from contextlib import closing
+from GraphViewer import GraphViewer
 import shelve
 import heapq
 import operator
+import networkx
 
 
 class PageRanker(object):
@@ -82,6 +84,33 @@ class PageRanker(object):
                 rank_vector = rank_vector1
         np.save("trustRank.npy", rank_vector)
 
+    def visualize_trust_ranking(self):
+        viewer = GraphViewer()
+        m = self.basic_matrix
+        teleport_set = self.trusted_pages
+        trust_vector = np.zeros(m.shape[0])
+        for doc_id in teleport_set:
+            trust_vector[doc_id] = 1 / len(teleport_set)
+        rank_vector = np.full(m.shape[0], 1 / m.shape[0])
+        viewer.view_graph(node_list=list(teleport_set))
+        count = 0
+        while True:
+            count += 1
+            rank_vector1 = m * rank_vector + trust_vector
+            diff = rank_vector1 - rank_vector
+            diff = sum(diff * diff)
+            if diff < 1e-50:
+                break
+            else:
+                rank_vector = rank_vector1
+                if count % 40 == 0:
+                    try:
+                        viewer.view_graph(node_list=list(teleport_set),
+                                          ranks=list(rank_vector),
+                                          mult_factor=20000, concat=150)
+                    except networkx.exception.NetworkXError as e:
+                        print e
+
     def topic_specific_search(self, query, scheme="topic"):
         if scheme == "trust":
             rank_vector = np.load("trustRank.npy")
@@ -96,9 +125,8 @@ class PageRanker(object):
                 result_ids.append((doc_id, doc_rank))
         sorted_scores = heapq.nlargest(20, result_ids,
                                        key=operator.itemgetter(1))
-        print sorted_scores
         return sorted_scores
 
 if __name__ == "__main__":
     ranker = PageRanker()
-    ranker.topic_specific_search("cassini crash", scheme="trust")
+    ranker.visualize_trust_ranking()
